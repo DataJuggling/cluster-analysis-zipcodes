@@ -1,0 +1,5332 @@
+[
+  [
+    [
+      "1000-1499",
+      "1791785",
+      "",
+      "",
+      "København K",
+      "Gns. nettoformue: 1.791.785 kroner",
+      "Medianformue: 618.323 kroner"
+    ],
+    [
+      "1500-1799",
+      "1278088",
+      "",
+      "",
+      "København V",
+      "Gns. nettoformue: 1.278.088 kroner",
+      "Medianformue: 754.614 kroner"
+    ],
+    [
+      "1800-1899",
+      "2307312",
+      "",
+      "",
+      "Frederiksberg C",
+      "Gns. nettoformue: 2.307.312 kroner",
+      "Medianformue: 1.262.251 kroner"
+    ],
+    [
+      "2000",
+      "1671442",
+      "",
+      "",
+      "2000 Frederiksberg",
+      "Gns. nettoformue: 1.671.442 kroner",
+      "Medianformue: 765.024 kroner"
+    ],
+    [
+      "2100",
+      "1503762",
+      "",
+      "",
+      "2100 København Ø",
+      "Gns. nettoformue: 1.503.762 kroner",
+      "Medianformue: 669.613 kroner"
+    ],
+    [
+      "2150",
+      "1514228",
+      "",
+      "",
+      "2150 Nordhavn",
+      "Gns. nettoformue: 1.514.228 kroner",
+      "Medianformue: 884.158 kroner"
+    ],
+    [
+      "2200",
+      "740365",
+      "",
+      "",
+      "2200 København N",
+      "Gns. nettoformue: 740.365 kroner",
+      "Medianformue: 332.502 kroner"
+    ],
+    [
+      "2300",
+      "1048773",
+      "",
+      "",
+      "2300 København S",
+      "Gns. nettoformue: 1.048.773 kroner",
+      "Medianformue: 497.043 kroner"
+    ],
+    [
+      "2400",
+      "686855",
+      "",
+      "",
+      "2400 København NV",
+      "Gns. nettoformue: 686.855 kroner",
+      "Medianformue: 265.406 kroner"
+    ],
+    [
+      "2450",
+      "684725",
+      "",
+      "",
+      "2450 København SV",
+      "Gns. nettoformue: 684.725 kroner",
+      "Medianformue: 211.584 kroner"
+    ],
+    [
+      "2500",
+      "987130",
+      "",
+      "",
+      "2500 Valby",
+      "Gns. nettoformue: 987.130 kroner",
+      "Medianformue: 429.653 kroner"
+    ],
+    [
+      "2600",
+      "1290411",
+      "",
+      "",
+      "2600 Glostrup",
+      "Gns. nettoformue: 1.290.411 kroner",
+      "Medianformue: 690.072 kroner"
+    ],
+    [
+      "2605",
+      "1080996",
+      "",
+      "",
+      "2605 Brøndby",
+      "Gns. nettoformue: 1.080.996 kroner",
+      "Medianformue: 508.781 kroner"
+    ],
+    [
+      "2610",
+      "1191583",
+      "",
+      "",
+      "2610 Rødovre",
+      "Gns. nettoformue: 1.191.583 kroner",
+      "Medianformue: 637.896 kroner"
+    ],
+    [
+      "2620",
+      "931646",
+      "",
+      "",
+      "2620 Albertslund",
+      "Gns. nettoformue: 931.646 kroner",
+      "Medianformue: 404.275 kroner"
+    ],
+    [
+      "2625",
+      "1943441",
+      "",
+      "",
+      "2625 Vallensbæk",
+      "Gns. nettoformue: 1.943.441 kroner",
+      "Medianformue: 1.388.764 kroner"
+    ],
+    [
+      "2630",
+      "1197625",
+      "",
+      "",
+      "2630 Taastrup",
+      "Gns. nettoformue: 1.197.625 kroner",
+      "Medianformue: 582.299 kroner"
+    ],
+    [
+      "2635",
+      "906681",
+      "",
+      "",
+      "2635 Ishøj",
+      "Gns. nettoformue: 906.681 kroner",
+      "Medianformue: 363.040 kroner"
+    ],
+    [
+      "2640",
+      "1346693",
+      "",
+      "",
+      "2640 Hedehusene",
+      "Gns. nettoformue: 1.346.693 kroner",
+      "Medianformue: 814.006 kroner"
+    ],
+    [
+      "2650",
+      "1255473",
+      "",
+      "",
+      "2650 Hvidovre",
+      "Gns. nettoformue: 1.255.473 kroner",
+      "Medianformue: 701.621 kroner"
+    ],
+    [
+      "2660",
+      "872779",
+      "",
+      "",
+      "2660 Brøndby Strand",
+      "Gns. nettoformue: 872.779 kroner",
+      "Medianformue: 281.149 kroner"
+    ],
+    [
+      "2665",
+      "1482308",
+      "",
+      "",
+      "2665 Vallensbæk Strand",
+      "Gns. nettoformue: 1.482.308 kroner",
+      "Medianformue: 886.492 kroner"
+    ],
+    [
+      "2670",
+      "1585298",
+      "",
+      "",
+      "2670 Greve",
+      "Gns. nettoformue: 1.585.298 kroner",
+      "Medianformue: 916.862 kroner"
+    ],
+    [
+      "2680",
+      "1859016",
+      "",
+      "",
+      "2680 Solrød Strand",
+      "Gns. nettoformue: 1.859.016 kroner",
+      "Medianformue: 1.186.249 kroner"
+    ],
+    [
+      "2690",
+      "1991367",
+      "",
+      "",
+      "2690 Karlslunde",
+      "Gns. nettoformue: 1.991.367 kroner",
+      "Medianformue: 1.274.356 kroner"
+    ],
+    [
+      "2700",
+      "1033924",
+      "",
+      "",
+      "2700 Brønshøj",
+      "Gns. nettoformue: 1.033.924 kroner",
+      "Medianformue: 358.712 kroner"
+    ],
+    [
+      "2720",
+      "1266866",
+      "",
+      "",
+      "2720 Vanløse",
+      "Gns. nettoformue: 1.266.866 kroner",
+      "Medianformue: 625.928 kroner"
+    ],
+    [
+      "2730",
+      "1281769",
+      "",
+      "",
+      "2730 Herlev",
+      "Gns. nettoformue: 1.281.769 kroner",
+      "Medianformue: 624.576 kroner"
+    ],
+    [
+      "2740",
+      "1396037",
+      "",
+      "",
+      "2740 Skovlunde",
+      "Gns. nettoformue: 1.396.037 kroner",
+      "Medianformue: 825.490 kroner"
+    ],
+    [
+      "2750",
+      "1162885",
+      "",
+      "",
+      "2750 Ballerup",
+      "Gns. nettoformue: 1.162.885 kroner",
+      "Medianformue: 542.870 kroner"
+    ],
+    [
+      "2760",
+      "1762383",
+      "",
+      "",
+      "2760 Måløv",
+      "Gns. nettoformue: 1.762.383 kroner",
+      "Medianformue: 1.234.104 kroner"
+    ],
+    [
+      "2765",
+      "1976645",
+      "",
+      "",
+      "2765 Smørum",
+      "Gns. nettoformue: 1.976.645 kroner",
+      "Medianformue: 1.386.350 kroner"
+    ],
+    [
+      "2770",
+      "1431930",
+      "",
+      "",
+      "2770 Kastrup",
+      "Gns. nettoformue: 1.431.930 kroner",
+      "Medianformue: 903.707 kroner"
+    ],
+    [
+      "2791",
+      "2279633",
+      "",
+      "",
+      "2791 Dragør",
+      "Gns. nettoformue: 2.279.633 kroner",
+      "Medianformue: 1.550.573 kroner"
+    ],
+    [
+      "2800",
+      "1982370",
+      "",
+      "",
+      "2800 Kgs. Lyngby",
+      "Gns. nettoformue: 1.982.370 kroner",
+      "Medianformue: 941.549 kroner"
+    ],
+    [
+      "2820",
+      "2765799",
+      "",
+      "",
+      "2820 Gentofte",
+      "Gns. nettoformue: 2.765.799 kroner",
+      "Medianformue: 1.407.428 kroner"
+    ],
+    [
+      "2830",
+      "3299169",
+      "",
+      "",
+      "2830 Virum",
+      "Gns. nettoformue: 3.299.169 kroner",
+      "Medianformue: 2.011.264 kroner"
+    ],
+    [
+      "2840",
+      "4930945",
+      "",
+      "",
+      "2840 Holte",
+      "Gns. nettoformue: 4.930.945 kroner",
+      "Medianformue: 2.487.398 kroner"
+    ],
+    [
+      "2850",
+      "1928549",
+      "",
+      "",
+      "2850 Nærum",
+      "Gns. nettoformue: 1.928.549 kroner",
+      "Medianformue: 735.287 kroner"
+    ],
+    [
+      "2860",
+      "1239706",
+      "",
+      "",
+      "2860 Søborg",
+      "Gns. nettoformue: 1.239.706 kroner",
+      "Medianformue: 610.674 kroner"
+    ],
+    [
+      "2870",
+      "2212337",
+      "",
+      "",
+      "2870 Dyssegård",
+      "Gns. nettoformue: 2.212.337 kroner",
+      "Medianformue: 1.421.382 kroner"
+    ],
+    [
+      "2880",
+      "1818576",
+      "",
+      "",
+      "2880 Bagsværd",
+      "Gns. nettoformue: 1.818.576 kroner",
+      "Medianformue: 932.242 kroner"
+    ],
+    [
+      "2900",
+      "4454262",
+      "",
+      "",
+      "2900 Hellerup",
+      "Gns. nettoformue: 4.454.262 kroner",
+      "Medianformue: 1.956.525 kroner"
+    ],
+    [
+      "2920",
+      "4438457",
+      "",
+      "",
+      "2920 Charlottenlund",
+      "Gns. nettoformue: 4.438.457 kroner",
+      "Medianformue: 1.912.168 kroner"
+    ],
+    [
+      "2930",
+      "8535660",
+      "",
+      "",
+      "2930 Klampenborg",
+      "Gns. nettoformue: 8.535.660 kroner",
+      "Medianformue: 2.770.492 kroner"
+    ],
+    [
+      "2942",
+      "6523018",
+      "",
+      "",
+      "2942 Skodsborg",
+      "Gns. nettoformue: 6.523.018 kroner",
+      "Medianformue: 3.428.003 kroner"
+    ],
+    [
+      "2950",
+      "7563991",
+      "",
+      "",
+      "2950 Vedbæk",
+      "Gns. nettoformue: 7.563.991 kroner",
+      "Medianformue: 2.121.838 kroner"
+    ],
+    [
+      "2960",
+      "5365073",
+      "",
+      "",
+      "2960 Rungsted Kyst",
+      "Gns. nettoformue: 5.365.073 kroner",
+      "Medianformue: 2.740.682 kroner"
+    ],
+    [
+      "2970",
+      "2394294",
+      "",
+      "",
+      "2970 Hørsholm",
+      "Gns. nettoformue: 2.394.294 kroner",
+      "Medianformue: 1.352.165 kroner"
+    ],
+    [
+      "2980",
+      "1599395",
+      "",
+      "",
+      "2980 Kokkedal",
+      "Gns. nettoformue: 1.599.395 kroner",
+      "Medianformue: 784.393 kroner"
+    ],
+    [
+      "2990",
+      "1521873",
+      "",
+      "",
+      "2990 Nivå",
+      "Gns. nettoformue: 1.521.873 kroner",
+      "Medianformue: 794.822 kroner"
+    ],
+    [
+      "3000",
+      "1022405",
+      "",
+      "",
+      "3000 Helsingør",
+      "Gns. nettoformue: 1.022.405 kroner",
+      "Medianformue: 451.327 kroner"
+    ],
+    [
+      "3050",
+      "2692999",
+      "",
+      "",
+      "3050 Humlebæk",
+      "Gns. nettoformue: 2.692.999 kroner",
+      "Medianformue: 964.002 kroner"
+    ],
+    [
+      "3060",
+      "2094336",
+      "",
+      "",
+      "3060 Espergærde",
+      "Gns. nettoformue: 2.094.336 kroner",
+      "Medianformue: 1.263.452 kroner"
+    ],
+    [
+      "3070",
+      "2205567",
+      "",
+      "",
+      "3070 Snekkersten",
+      "Gns. nettoformue: 2.205.567 kroner",
+      "Medianformue: 1.239.622 kroner"
+    ],
+    [
+      "3080",
+      "1664015",
+      "",
+      "",
+      "3080 Tikøb",
+      "Gns. nettoformue: 1.664.015 kroner",
+      "Medianformue: 1.029.630 kroner"
+    ],
+    [
+      "3100",
+      "1784365",
+      "",
+      "",
+      "3100 Hornbæk",
+      "Gns. nettoformue: 1.784.365 kroner",
+      "Medianformue: 1.026.138 kroner"
+    ],
+    [
+      "3120",
+      "1620469",
+      "",
+      "",
+      "3120 Dronningmølle",
+      "Gns. nettoformue: 1.620.469 kroner",
+      "Medianformue: 1.018.123 kroner"
+    ],
+    [
+      "3140",
+      "1883616",
+      "",
+      "",
+      "3140 Ålsgårde",
+      "Gns. nettoformue: 1.883.616 kroner",
+      "Medianformue: 1.104.530 kroner"
+    ],
+    [
+      "3150",
+      "2830573",
+      "",
+      "",
+      "3150 Hellebæk",
+      "Gns. nettoformue: 2.830.573 kroner",
+      "Medianformue: 1.891.195 kroner"
+    ],
+    [
+      "3200",
+      "1442329",
+      "",
+      "",
+      "3200 Helsinge",
+      "Gns. nettoformue: 1.442.329 kroner",
+      "Medianformue: 878.787 kroner"
+    ],
+    [
+      "3210",
+      "1524557",
+      "",
+      "",
+      "3210 Vejby",
+      "Gns. nettoformue: 1.524.557 kroner",
+      "Medianformue: 976.440 kroner"
+    ],
+    [
+      "3220",
+      "2070034",
+      "",
+      "",
+      "3220 Tisvildeleje",
+      "Gns. nettoformue: 2.070.034 kroner",
+      "Medianformue: 1.346.056 kroner"
+    ],
+    [
+      "3230",
+      "1255580",
+      "",
+      "",
+      "3230 Græsted",
+      "Gns. nettoformue: 1.255.580 kroner",
+      "Medianformue: 691.528 kroner"
+    ],
+    [
+      "3250",
+      "1551972",
+      "",
+      "",
+      "3250 Gilleleje",
+      "Gns. nettoformue: 1.551.972 kroner",
+      "Medianformue: 915.377 kroner"
+    ],
+    [
+      "3300",
+      "983090",
+      "",
+      "",
+      "3300 Frederiksværk",
+      "Gns. nettoformue: 983.090 kroner",
+      "Medianformue: 522.667 kroner"
+    ],
+    [
+      "3310",
+      "1240084",
+      "",
+      "",
+      "3310 Ølsted",
+      "Gns. nettoformue: 1.240.084 kroner",
+      "Medianformue: 750.294 kroner"
+    ],
+    [
+      "3320",
+      "1293664",
+      "",
+      "",
+      "3320 Skævinge",
+      "Gns. nettoformue: 1.293.664 kroner",
+      "Medianformue: 754.716 kroner"
+    ],
+    [
+      "3330",
+      "1259916",
+      "",
+      "",
+      "3330 Gørløse",
+      "Gns. nettoformue: 1.259.916 kroner",
+      "Medianformue: 859.801 kroner"
+    ],
+    [
+      "3360",
+      "1387330",
+      "",
+      "",
+      "3360 Liseleje",
+      "Gns. nettoformue: 1.387.330 kroner",
+      "Medianformue: 818.107 kroner"
+    ],
+    [
+      "3370",
+      "1204110",
+      "",
+      "",
+      "3370 Melby",
+      "Gns. nettoformue: 1.204.110 kroner",
+      "Medianformue: 771.733 kroner"
+    ],
+    [
+      "3390",
+      "1175990",
+      "",
+      "",
+      "3390 Hundested",
+      "Gns. nettoformue: 1.175.990 kroner",
+      "Medianformue: 695.141 kroner"
+    ],
+    [
+      "3400",
+      "1640952",
+      "",
+      "",
+      "3400 Hillerød",
+      "Gns. nettoformue: 1.640.952 kroner",
+      "Medianformue: 913.152 kroner"
+    ],
+    [
+      "3450",
+      "2260305",
+      "",
+      "",
+      "3450 Allerød",
+      "Gns. nettoformue: 2.260.305 kroner",
+      "Medianformue: 1.509.438 kroner"
+    ],
+    [
+      "3460",
+      "2563406",
+      "",
+      "",
+      "3460 Birkerød",
+      "Gns. nettoformue: 2.563.406 kroner",
+      "Medianformue: 1.461.200 kroner"
+    ],
+    [
+      "3480",
+      "2025555",
+      "",
+      "",
+      "3480 Fredensborg",
+      "Gns. nettoformue: 2.025.555 kroner",
+      "Medianformue: 1.161.578 kroner"
+    ],
+    [
+      "3490",
+      "1261752",
+      "",
+      "",
+      "3490 Kvistgård",
+      "Gns. nettoformue: 1.261.752 kroner",
+      "Medianformue: 792.247 kroner"
+    ],
+    [
+      "3500",
+      "2710644",
+      "",
+      "",
+      "3500 Værløse",
+      "Gns. nettoformue: 2.710.644 kroner",
+      "Medianformue: 1.862.582 kroner"
+    ],
+    [
+      "3520",
+      "1788116",
+      "",
+      "",
+      "3520 Farum",
+      "Gns. nettoformue: 1.788.116 kroner",
+      "Medianformue: 953.532 kroner"
+    ],
+    [
+      "3540",
+      "2204480",
+      "",
+      "",
+      "3540 Lynge",
+      "Gns. nettoformue: 2.204.480 kroner",
+      "Medianformue: 1.238.284 kroner"
+    ],
+    [
+      "3550",
+      "1507769",
+      "",
+      "",
+      "3550 Slangerup",
+      "Gns. nettoformue: 1.507.769 kroner",
+      "Medianformue: 956.839 kroner"
+    ],
+    [
+      "3600",
+      "1487640",
+      "",
+      "",
+      "3600 Frederikssund",
+      "Gns. nettoformue: 1.487.640 kroner",
+      "Medianformue: 843.202 kroner"
+    ],
+    [
+      "3630",
+      "1282777",
+      "",
+      "",
+      "3630 Jægerspris",
+      "Gns. nettoformue: 1.282.777 kroner",
+      "Medianformue: 822.120 kroner"
+    ],
+    [
+      "3650",
+      "1634765",
+      "",
+      "",
+      "3650 Ølstykke",
+      "Gns. nettoformue: 1.634.765 kroner",
+      "Medianformue: 1.062.479 kroner"
+    ],
+    [
+      "3660",
+      "1754256",
+      "",
+      "",
+      "3660 Stenløse",
+      "Gns. nettoformue: 1.754.256 kroner",
+      "Medianformue: 1.192.274 kroner"
+    ],
+    [
+      "3670",
+      "1900103",
+      "",
+      "",
+      "3670 Veksø Sjælland",
+      "Gns. nettoformue: 1.900.103 kroner",
+      "Medianformue: 1.248.626 kroner"
+    ],
+    [
+      "3700",
+      "1075061",
+      "",
+      "",
+      "3700 Rønne",
+      "Gns. nettoformue: 1.075.061 kroner",
+      "Medianformue: 620.181 kroner"
+    ],
+    [
+      "3720",
+      "906426",
+      "",
+      "",
+      "3720 Aakirkeby",
+      "Gns. nettoformue: 906.426 kroner",
+      "Medianformue: 528.195 kroner"
+    ],
+    [
+      "3730",
+      "939818",
+      "",
+      "",
+      "3730 Nexø",
+      "Gns. nettoformue: 939.818 kroner",
+      "Medianformue: 552.067 kroner"
+    ],
+    [
+      "3740",
+      "1622670",
+      "",
+      "",
+      "3740 Svaneke",
+      "Gns. nettoformue: 1.622.670 kroner",
+      "Medianformue: 946.372 kroner"
+    ],
+    [
+      "3751",
+      "997089",
+      "",
+      "",
+      "3751 Østermarie",
+      "Gns. nettoformue: 997.089 kroner",
+      "Medianformue: 507.534 kroner"
+    ],
+    [
+      "3760",
+      "1143546",
+      "",
+      "",
+      "3760 Gudhjem",
+      "Gns. nettoformue: 1.143.546 kroner",
+      "Medianformue: 679.316 kroner"
+    ],
+    [
+      "3770",
+      "1095501",
+      "",
+      "",
+      "3770 Allinge",
+      "Gns. nettoformue: 1.095.501 kroner",
+      "Medianformue: 689.881 kroner"
+    ],
+    [
+      "3782",
+      "856986",
+      "",
+      "",
+      "3782 Klemensker",
+      "Gns. nettoformue: 856.986 kroner",
+      "Medianformue: 477.815 kroner"
+    ],
+    [
+      "3790",
+      "1091338",
+      "",
+      "",
+      "3790 Hasle",
+      "Gns. nettoformue: 1.091.338 kroner",
+      "Medianformue: 588.324 kroner"
+    ],
+    [
+      "4000",
+      "1613330",
+      "",
+      "",
+      "4000 Roskilde",
+      "Gns. nettoformue: 1.613.330 kroner",
+      "Medianformue: 858.583 kroner"
+    ],
+    [
+      "4030",
+      "1463228",
+      "",
+      "",
+      "4030 Tune",
+      "Gns. nettoformue: 1.463.228 kroner",
+      "Medianformue: 986.676 kroner"
+    ],
+    [
+      "4040",
+      "1820425",
+      "",
+      "",
+      "4040 Jyllinge",
+      "Gns. nettoformue: 1.820.425 kroner",
+      "Medianformue: 1.220.400 kroner"
+    ],
+    [
+      "4050",
+      "1310372",
+      "",
+      "",
+      "4050 Skibby",
+      "Gns. nettoformue: 1.310.372 kroner",
+      "Medianformue: 742.781 kroner"
+    ],
+    [
+      "4060",
+      "1362003",
+      "",
+      "",
+      "4060 Kirke Såby",
+      "Gns. nettoformue: 1.362.003 kroner",
+      "Medianformue: 802.290 kroner"
+    ],
+    [
+      "4070",
+      "1368757",
+      "",
+      "",
+      "4070 Kirke Hyllinge",
+      "Gns. nettoformue: 1.368.757 kroner",
+      "Medianformue: 844.654 kroner"
+    ],
+    [
+      "4100",
+      "1155490",
+      "",
+      "",
+      "4100 Ringsted",
+      "Gns. nettoformue: 1.155.490 kroner",
+      "Medianformue: 581.944 kroner"
+    ],
+    [
+      "4130",
+      "1534934",
+      "",
+      "",
+      "4130 Viby Sjælland",
+      "Gns. nettoformue: 1.534.934 kroner",
+      "Medianformue: 1.011.632 kroner"
+    ],
+    [
+      "4140",
+      "1255476",
+      "",
+      "",
+      "4140 Borup",
+      "Gns. nettoformue: 1.255.476 kroner",
+      "Medianformue: 752.551 kroner"
+    ],
+    [
+      "4160",
+      "1064271",
+      "",
+      "",
+      "4160 Herlufmagle",
+      "Gns. nettoformue: 1.064.271 kroner",
+      "Medianformue: 534.772 kroner"
+    ],
+    [
+      "4171",
+      "1279274",
+      "",
+      "",
+      "4171 Glumsø",
+      "Gns. nettoformue: 1.279.274 kroner",
+      "Medianformue: 763.426 kroner"
+    ],
+    [
+      "4173",
+      "1246953",
+      "",
+      "",
+      "4173 Fjenneslev",
+      "Gns. nettoformue: 1.246.953 kroner",
+      "Medianformue: 718.026 kroner"
+    ],
+    [
+      "4174",
+      "1628537",
+      "",
+      "",
+      "4174 Jystrup Midtsj",
+      "Gns. nettoformue: 1.628.537 kroner",
+      "Medianformue: 1.117.677 kroner"
+    ],
+    [
+      "4180",
+      "1426329",
+      "",
+      "",
+      "4180 Sorø",
+      "Gns. nettoformue: 1.426.329 kroner",
+      "Medianformue: 815.161 kroner"
+    ],
+    [
+      "4190",
+      "1191918",
+      "",
+      "",
+      "4190 Munke Bjergby",
+      "Gns. nettoformue: 1.191.918 kroner",
+      "Medianformue: 660.883 kroner"
+    ],
+    [
+      "4200",
+      "1036428",
+      "",
+      "",
+      "4200 Slagelse",
+      "Gns. nettoformue: 1.036.428 kroner",
+      "Medianformue: 461.638 kroner"
+    ],
+    [
+      "4220",
+      "971871",
+      "",
+      "",
+      "4220 Korsør",
+      "Gns. nettoformue: 971.871 kroner",
+      "Medianformue: 474.710 kroner"
+    ],
+    [
+      "4230",
+      "1189998",
+      "",
+      "",
+      "4230 Skælskør",
+      "Gns. nettoformue: 1.189.998 kroner",
+      "Medianformue: 612.674 kroner"
+    ],
+    [
+      "4241",
+      "1158959",
+      "",
+      "",
+      "4241 Vemmelev",
+      "Gns. nettoformue: 1.158.959 kroner",
+      "Medianformue: 710.100 kroner"
+    ],
+    [
+      "4242",
+      "1431138",
+      "",
+      "",
+      "4242 Boeslunde",
+      "Gns. nettoformue: 1.431.138 kroner",
+      "Medianformue: 611.963 kroner"
+    ],
+    [
+      "4243",
+      "1553316",
+      "",
+      "",
+      "4243 Rude",
+      "Gns. nettoformue: 1.553.316 kroner",
+      "Medianformue: 766.152 kroner"
+    ],
+    [
+      "4250",
+      "1109467",
+      "",
+      "",
+      "4250 Fuglebjerg",
+      "Gns. nettoformue: 1.109.467 kroner",
+      "Medianformue: 488.054 kroner"
+    ],
+    [
+      "4261",
+      "999697",
+      "",
+      "",
+      "4261 Dalmose",
+      "Gns. nettoformue: 999.697 kroner",
+      "Medianformue: 563.594 kroner"
+    ],
+    [
+      "4262",
+      "899818",
+      "",
+      "",
+      "4262 Sandved",
+      "Gns. nettoformue: 899.818 kroner",
+      "Medianformue: 482.289 kroner"
+    ],
+    [
+      "4270",
+      "1050526",
+      "",
+      "",
+      "4270 Høng",
+      "Gns. nettoformue: 1.050.526 kroner",
+      "Medianformue: 587.318 kroner"
+    ],
+    [
+      "4281",
+      "1030740",
+      "",
+      "",
+      "4281 Gørlev",
+      "Gns. nettoformue: 1.030.740 kroner",
+      "Medianformue: 594.549 kroner"
+    ],
+    [
+      "4291",
+      "942474",
+      "",
+      "",
+      "4291 Ruds Vedby",
+      "Gns. nettoformue: 942.474 kroner",
+      "Medianformue: 414.081 kroner"
+    ],
+    [
+      "4293",
+      "963342",
+      "",
+      "",
+      "4293 Dianalund",
+      "Gns. nettoformue: 963.342 kroner",
+      "Medianformue: 534.867 kroner"
+    ],
+    [
+      "4295",
+      "1060676",
+      "",
+      "",
+      "4295 Stenlille",
+      "Gns. nettoformue: 1.060.676 kroner",
+      "Medianformue: 592.159 kroner"
+    ],
+    [
+      "4296",
+      "833911",
+      "",
+      "",
+      "4296 Nyrup",
+      "Gns. nettoformue: 833.911 kroner",
+      "Medianformue: 494.819 kroner"
+    ],
+    [
+      "4300",
+      "1238590",
+      "",
+      "",
+      "4300 Holbæk",
+      "Gns. nettoformue: 1.238.590 kroner",
+      "Medianformue: 616.431 kroner"
+    ],
+    [
+      "4320",
+      "1977489",
+      "",
+      "",
+      "4320 Lejre",
+      "Gns. nettoformue: 1.977.489 kroner",
+      "Medianformue: 1.291.269 kroner"
+    ],
+    [
+      "4330",
+      "1543542",
+      "",
+      "",
+      "4330 Hvalsø",
+      "Gns. nettoformue: 1.543.542 kroner",
+      "Medianformue: 987.070 kroner"
+    ],
+    [
+      "4340",
+      "1289050",
+      "",
+      "",
+      "4340 Tølløse",
+      "Gns. nettoformue: 1.289.050 kroner",
+      "Medianformue: 716.161 kroner"
+    ],
+    [
+      "4350",
+      "1145944",
+      "",
+      "",
+      "4350 Ugerløse",
+      "Gns. nettoformue: 1.145.944 kroner",
+      "Medianformue: 656.149 kroner"
+    ],
+    [
+      "4360",
+      "1409162",
+      "",
+      "",
+      "4360 Kirke Eskilstrup",
+      "Gns. nettoformue: 1.409.162 kroner",
+      "Medianformue: 697.024 kroner"
+    ],
+    [
+      "4370",
+      "1087307",
+      "",
+      "",
+      "4370 Store Merløse",
+      "Gns. nettoformue: 1.087.307 kroner",
+      "Medianformue: 592.652 kroner"
+    ],
+    [
+      "4390",
+      "1485628",
+      "",
+      "",
+      "4390 Vipperød",
+      "Gns. nettoformue: 1.485.628 kroner",
+      "Medianformue: 954.532 kroner"
+    ],
+    [
+      "4400",
+      "1205503",
+      "",
+      "",
+      "4400 Kalundborg",
+      "Gns. nettoformue: 1.205.503 kroner",
+      "Medianformue: 645.271 kroner"
+    ],
+    [
+      "4420",
+      "1246407",
+      "",
+      "",
+      "4420 Regstrup",
+      "Gns. nettoformue: 1.246.407 kroner",
+      "Medianformue: 681.179 kroner"
+    ],
+    [
+      "4440",
+      "942005",
+      "",
+      "",
+      "4440 Mørkøv",
+      "Gns. nettoformue: 942.005 kroner",
+      "Medianformue: 511.859 kroner"
+    ],
+    [
+      "4450",
+      "1284913",
+      "",
+      "",
+      "4450 Jyderup",
+      "Gns. nettoformue: 1.284.913 kroner",
+      "Medianformue: 552.390 kroner"
+    ],
+    [
+      "4460",
+      "909976",
+      "",
+      "",
+      "4460 Snertinge",
+      "Gns. nettoformue: 909.976 kroner",
+      "Medianformue: 417.555 kroner"
+    ],
+    [
+      "4470",
+      "881900",
+      "",
+      "",
+      "4470 Svebølle",
+      "Gns. nettoformue: 881.900 kroner",
+      "Medianformue: 455.724 kroner"
+    ],
+    [
+      "4480",
+      "1338014",
+      "",
+      "",
+      "4480 Store Fuglede",
+      "Gns. nettoformue: 1.338.014 kroner",
+      "Medianformue: 684.672 kroner"
+    ],
+    [
+      "4490",
+      "1063908",
+      "",
+      "",
+      "4490 Jerslev Sjælland",
+      "Gns. nettoformue: 1.063.908 kroner",
+      "Medianformue: 528.413 kroner"
+    ],
+    [
+      "4500",
+      "1194000",
+      "",
+      "",
+      "4500 Nykøbing Sj",
+      "Gns. nettoformue: 1.194.000 kroner",
+      "Medianformue: 657.931 kroner"
+    ],
+    [
+      "4520",
+      "879846",
+      "",
+      "",
+      "4520 Svinninge",
+      "Gns. nettoformue: 879.846 kroner",
+      "Medianformue: 498.724 kroner"
+    ],
+    [
+      "4532",
+      "975454",
+      "",
+      "",
+      "4532 Gislinge",
+      "Gns. nettoformue: 975.454 kroner",
+      "Medianformue: 577.020 kroner"
+    ],
+    [
+      "4534",
+      "920633",
+      "",
+      "",
+      "4534 Hørve",
+      "Gns. nettoformue: 920.633 kroner",
+      "Medianformue: 461.492 kroner"
+    ],
+    [
+      "4540",
+      "1096896",
+      "",
+      "",
+      "4540 Fårevejle",
+      "Gns. nettoformue: 1.096.896 kroner",
+      "Medianformue: 537.934 kroner"
+    ],
+    [
+      "4550",
+      "1211441",
+      "",
+      "",
+      "4550 Asnæs",
+      "Gns. nettoformue: 1.211.441 kroner",
+      "Medianformue: 700.343 kroner"
+    ],
+    [
+      "4560",
+      "1150029",
+      "",
+      "",
+      "4560 Vig",
+      "Gns. nettoformue: 1.150.029 kroner",
+      "Medianformue: 664.518 kroner"
+    ],
+    [
+      "4571",
+      "1077418",
+      "",
+      "",
+      "4571 Grevinge",
+      "Gns. nettoformue: 1.077.418 kroner",
+      "Medianformue: 540.965 kroner"
+    ],
+    [
+      "4572",
+      "1027825",
+      "",
+      "",
+      "4572 Nørre Asmindrup",
+      "Gns. nettoformue: 1.027.825 kroner",
+      "Medianformue: 552.565 kroner"
+    ],
+    [
+      "4573",
+      "1191927",
+      "",
+      "",
+      "4573 Højby",
+      "Gns. nettoformue: 1.191.927 kroner",
+      "Medianformue: 618.364 kroner"
+    ],
+    [
+      "4581",
+      "1690627",
+      "",
+      "",
+      "4581 Rørvig",
+      "Gns. nettoformue: 1.690.627 kroner",
+      "Medianformue: 1.082.270 kroner"
+    ],
+    [
+      "4583",
+      "1240438",
+      "",
+      "",
+      "4583 Sjællands Odde",
+      "Gns. nettoformue: 1.240.438 kroner",
+      "Medianformue: 755.351 kroner"
+    ],
+    [
+      "4591",
+      "1156549",
+      "",
+      "",
+      "4591 Føllenslev",
+      "Gns. nettoformue: 1.156.549 kroner",
+      "Medianformue: 752.452 kroner"
+    ],
+    [
+      "4592",
+      "1116164",
+      "",
+      "",
+      "4592 Sejerø",
+      "Gns. nettoformue: 1.116.164 kroner",
+      "Medianformue: 736.548 kroner"
+    ],
+    [
+      "4593",
+      "1108104",
+      "",
+      "",
+      "4593 Eskebjerg",
+      "Gns. nettoformue: 1.108.104 kroner",
+      "Medianformue: 533.311 kroner"
+    ],
+    [
+      "4600",
+      "1236984",
+      "",
+      "",
+      "4600 Køge",
+      "Gns. nettoformue: 1.236.984 kroner",
+      "Medianformue: 654.457 kroner"
+    ],
+    [
+      "4621",
+      "1695038",
+      "",
+      "",
+      "4621 Gadstrup",
+      "Gns. nettoformue: 1.695.038 kroner",
+      "Medianformue: 1.066.863 kroner"
+    ],
+    [
+      "4622",
+      "1394999",
+      "",
+      "",
+      "4622 Havdrup",
+      "Gns. nettoformue: 1.394.999 kroner",
+      "Medianformue: 932.767 kroner"
+    ],
+    [
+      "4623",
+      "1407717",
+      "",
+      "",
+      "4623 Lille Skensved",
+      "Gns. nettoformue: 1.407.717 kroner",
+      "Medianformue: 913.865 kroner"
+    ],
+    [
+      "4632",
+      "1334182",
+      "",
+      "",
+      "4632 Bjæverskov",
+      "Gns. nettoformue: 1.334.182 kroner",
+      "Medianformue: 827.433 kroner"
+    ],
+    [
+      "4640",
+      "1034256",
+      "",
+      "",
+      "4640 Faxe",
+      "Gns. nettoformue: 1.034.256 kroner",
+      "Medianformue: 466.950 kroner"
+    ],
+    [
+      "4652",
+      "1256102",
+      "",
+      "",
+      "4652 Hårlev",
+      "Gns. nettoformue: 1.256.102 kroner",
+      "Medianformue: 714.224 kroner"
+    ],
+    [
+      "4653",
+      "1129565",
+      "",
+      "",
+      "4653 Karise",
+      "Gns. nettoformue: 1.129.565 kroner",
+      "Medianformue: 675.589 kroner"
+    ],
+    [
+      "4654",
+      "1222850",
+      "",
+      "",
+      "4654 Faxe Ladeplads",
+      "Gns. nettoformue: 1.222.850 kroner",
+      "Medianformue: 772.353 kroner"
+    ],
+    [
+      "4660",
+      "1130196",
+      "",
+      "",
+      "4660 Store Heddinge",
+      "Gns. nettoformue: 1.130.196 kroner",
+      "Medianformue: 531.720 kroner"
+    ],
+    [
+      "4671",
+      "1451322",
+      "",
+      "",
+      "4671 Strøby",
+      "Gns. nettoformue: 1.451.322 kroner",
+      "Medianformue: 936.762 kroner"
+    ],
+    [
+      "4672",
+      "1112797",
+      "",
+      "",
+      "4672 Klippinge",
+      "Gns. nettoformue: 1.112.797 kroner",
+      "Medianformue: 643.599 kroner"
+    ],
+    [
+      "4673",
+      "1218105",
+      "",
+      "",
+      "4673 Rødvig Stevns",
+      "Gns. nettoformue: 1.218.105 kroner",
+      "Medianformue: 740.926 kroner"
+    ],
+    [
+      "4681",
+      "1057689",
+      "",
+      "",
+      "4681 Herfølge",
+      "Gns. nettoformue: 1.057.689 kroner",
+      "Medianformue: 580.271 kroner"
+    ],
+    [
+      "4682",
+      "1250580",
+      "",
+      "",
+      "4682 Tureby",
+      "Gns. nettoformue: 1.250.580 kroner",
+      "Medianformue: 640.017 kroner"
+    ],
+    [
+      "4683",
+      "956968",
+      "",
+      "",
+      "4683 Rønnede",
+      "Gns. nettoformue: 956.968 kroner",
+      "Medianformue: 582.318 kroner"
+    ],
+    [
+      "4684",
+      "1077133",
+      "",
+      "",
+      "4684 Holmegaard",
+      "Gns. nettoformue: 1.077.133 kroner",
+      "Medianformue: 648.639 kroner"
+    ],
+    [
+      "4690",
+      "1083903",
+      "",
+      "",
+      "4690 Haslev",
+      "Gns. nettoformue: 1.083.903 kroner",
+      "Medianformue: 596.152 kroner"
+    ],
+    [
+      "4700",
+      "1037523",
+      "",
+      "",
+      "4700 Næstved",
+      "Gns. nettoformue: 1.037.523 kroner",
+      "Medianformue: 514.100 kroner"
+    ],
+    [
+      "4720",
+      "1168063",
+      "",
+      "",
+      "4720 Præstø",
+      "Gns. nettoformue: 1.168.063 kroner",
+      "Medianformue: 668.929 kroner"
+    ],
+    [
+      "4733",
+      "1139737",
+      "",
+      "",
+      "4733 Tappernøje",
+      "Gns. nettoformue: 1.139.737 kroner",
+      "Medianformue: 500.002 kroner"
+    ],
+    [
+      "4735",
+      "1083885",
+      "",
+      "",
+      "4735 Mern",
+      "Gns. nettoformue: 1.083.885 kroner",
+      "Medianformue: 479.180 kroner"
+    ],
+    [
+      "4736",
+      "1797947",
+      "",
+      "",
+      "4736 Karrebæksminde",
+      "Gns. nettoformue: 1.797.947 kroner",
+      "Medianformue: 1.063.611 kroner"
+    ],
+    [
+      "4750",
+      "1119011",
+      "",
+      "",
+      "4750 Lundby",
+      "Gns. nettoformue: 1.119.011 kroner",
+      "Medianformue: 500.353 kroner"
+    ],
+    [
+      "4760",
+      "1093290",
+      "",
+      "",
+      "4760 Vordingborg",
+      "Gns. nettoformue: 1.093.290 kroner",
+      "Medianformue: 507.243 kroner"
+    ],
+    [
+      "4771",
+      "1078278",
+      "",
+      "",
+      "4771 Kalvehave",
+      "Gns. nettoformue: 1.078.278 kroner",
+      "Medianformue: 627.653 kroner"
+    ],
+    [
+      "4772",
+      "699980",
+      "",
+      "",
+      "4772 Langebæk",
+      "Gns. nettoformue: 699.980 kroner",
+      "Medianformue: 435.938 kroner"
+    ],
+    [
+      "4773",
+      "953554",
+      "",
+      "",
+      "4773 Stensved",
+      "Gns. nettoformue: 953.554 kroner",
+      "Medianformue: 589.195 kroner"
+    ],
+    [
+      "4780",
+      "1174480",
+      "",
+      "",
+      "4780 Stege",
+      "Gns. nettoformue: 1.174.480 kroner",
+      "Medianformue: 603.442 kroner"
+    ],
+    [
+      "4791",
+      "1158142",
+      "",
+      "",
+      "4791 Borre",
+      "Gns. nettoformue: 1.158.142 kroner",
+      "Medianformue: 553.317 kroner"
+    ],
+    [
+      "4792",
+      "1096601",
+      "",
+      "",
+      "4792 Askeby",
+      "Gns. nettoformue: 1.096.601 kroner",
+      "Medianformue: 568.553 kroner"
+    ],
+    [
+      "4793",
+      "1087697",
+      "",
+      "",
+      "4793 Bogø By",
+      "Gns. nettoformue: 1.087.697 kroner",
+      "Medianformue: 696.260 kroner"
+    ],
+    [
+      "4800",
+      "1024848",
+      "",
+      "",
+      "4800 Nykøbing F",
+      "Gns. nettoformue: 1.024.848 kroner",
+      "Medianformue: 466.544 kroner"
+    ],
+    [
+      "4840",
+      "1117569",
+      "",
+      "",
+      "4840 Nørre Alslev",
+      "Gns. nettoformue: 1.117.569 kroner",
+      "Medianformue: 541.582 kroner"
+    ],
+    [
+      "4850",
+      "1120686",
+      "",
+      "",
+      "4850 Stubbekøbing",
+      "Gns. nettoformue: 1.120.686 kroner",
+      "Medianformue: 502.144 kroner"
+    ],
+    [
+      "4862",
+      "1217096",
+      "",
+      "",
+      "4862 Guldborg",
+      "Gns. nettoformue: 1.217.096 kroner",
+      "Medianformue: 530.687 kroner"
+    ],
+    [
+      "4863",
+      "1029954",
+      "",
+      "",
+      "4863 Eskilstrup",
+      "Gns. nettoformue: 1.029.954 kroner",
+      "Medianformue: 568.368 kroner"
+    ],
+    [
+      "4871",
+      "1067197",
+      "",
+      "",
+      "4871 Horbelev",
+      "Gns. nettoformue: 1.067.197 kroner",
+      "Medianformue: 487.462 kroner"
+    ],
+    [
+      "4872",
+      "1300426",
+      "",
+      "",
+      "4872 Idestrup",
+      "Gns. nettoformue: 1.300.426 kroner",
+      "Medianformue: 664.271 kroner"
+    ],
+    [
+      "4873",
+      "1387341",
+      "",
+      "",
+      "4873 Væggerløse",
+      "Gns. nettoformue: 1.387.341 kroner",
+      "Medianformue: 833.085 kroner"
+    ],
+    [
+      "4874",
+      "906622",
+      "",
+      "",
+      "4874 Gedser",
+      "Gns. nettoformue: 906.622 kroner",
+      "Medianformue: 427.568 kroner"
+    ],
+    [
+      "4880",
+      "1095903",
+      "",
+      "",
+      "4880 Nysted",
+      "Gns. nettoformue: 1.095.903 kroner",
+      "Medianformue: 537.378 kroner"
+    ],
+    [
+      "4891",
+      "1051125",
+      "",
+      "",
+      "4891 Toreby L",
+      "Gns. nettoformue: 1.051.125 kroner",
+      "Medianformue: 544.166 kroner"
+    ],
+    [
+      "4892",
+      "1216644",
+      "",
+      "",
+      "4892 Kettinge",
+      "Gns. nettoformue: 1.216.644 kroner",
+      "Medianformue: 497.728 kroner"
+    ],
+    [
+      "4894",
+      "1019018",
+      "",
+      "",
+      "4894 Øster Ulslev",
+      "Gns. nettoformue: 1.019.018 kroner",
+      "Medianformue: 378.603 kroner"
+    ],
+    [
+      "4895",
+      "1042035",
+      "",
+      "",
+      "4895 Errindlev",
+      "Gns. nettoformue: 1.042.035 kroner",
+      "Medianformue: 468.457 kroner"
+    ],
+    [
+      "4900",
+      "902418",
+      "",
+      "",
+      "4900 Nakskov",
+      "Gns. nettoformue: 902.418 kroner",
+      "Medianformue: 379.739 kroner"
+    ],
+    [
+      "4912",
+      "1160214",
+      "",
+      "",
+      "4912 Harpelunde",
+      "Gns. nettoformue: 1.160.214 kroner",
+      "Medianformue: 446.239 kroner"
+    ],
+    [
+      "4913",
+      "1363194",
+      "",
+      "",
+      "4913 Horslunde",
+      "Gns. nettoformue: 1.363.194 kroner",
+      "Medianformue: 526.983 kroner"
+    ],
+    [
+      "4920",
+      "1168758",
+      "",
+      "",
+      "4920 Søllested",
+      "Gns. nettoformue: 1.168.758 kroner",
+      "Medianformue: 426.160 kroner"
+    ],
+    [
+      "4930",
+      "1170434",
+      "",
+      "",
+      "4930 Maribo",
+      "Gns. nettoformue: 1.170.434 kroner",
+      "Medianformue: 573.621 kroner"
+    ],
+    [
+      "4941",
+      "1202227",
+      "",
+      "",
+      "4941 Bandholm",
+      "Gns. nettoformue: 1.202.227 kroner",
+      "Medianformue: 447.875 kroner"
+    ],
+    [
+      "4943",
+      "1239970",
+      "",
+      "",
+      "4943 Torrig L",
+      "Gns. nettoformue: 1.239.970 kroner",
+      "Medianformue: 546.815 kroner"
+    ],
+    [
+      "4944",
+      "1479035",
+      "",
+      "",
+      "4944 Fejø",
+      "Gns. nettoformue: 1.479.035 kroner",
+      "Medianformue: 741.660 kroner"
+    ],
+    [
+      "4951",
+      "1236442",
+      "",
+      "",
+      "4951 Nørreballe",
+      "Gns. nettoformue: 1.236.442 kroner",
+      "Medianformue: 573.727 kroner"
+    ],
+    [
+      "4952",
+      "1227367",
+      "",
+      "",
+      "4952 Stokkemarke",
+      "Gns. nettoformue: 1.227.367 kroner",
+      "Medianformue: 444.917 kroner"
+    ],
+    [
+      "4953",
+      "1379021",
+      "",
+      "",
+      "4953 Vesterborg",
+      "Gns. nettoformue: 1.379.021 kroner",
+      "Medianformue: 460.940 kroner"
+    ],
+    [
+      "4960",
+      "829380",
+      "",
+      "",
+      "4960 Holeby",
+      "Gns. nettoformue: 829.380 kroner",
+      "Medianformue: 386.488 kroner"
+    ],
+    [
+      "4970",
+      "982676",
+      "",
+      "",
+      "4970 Rødby",
+      "Gns. nettoformue: 982.676 kroner",
+      "Medianformue: 388.274 kroner"
+    ],
+    [
+      "4983",
+      "1584885",
+      "",
+      "",
+      "4983 Dannemare",
+      "Gns. nettoformue: 1.584.885 kroner",
+      "Medianformue: 481.041 kroner"
+    ],
+    [
+      "4990",
+      "1106694",
+      "",
+      "",
+      "4990 Sakskøbing",
+      "Gns. nettoformue: 1.106.694 kroner",
+      "Medianformue: 482.517 kroner"
+    ],
+    [
+      "5000",
+      "670798",
+      "",
+      "",
+      "5000 Odense C",
+      "Gns. nettoformue: 670.798 kroner",
+      "Medianformue: 141.075 kroner"
+    ],
+    [
+      "5200",
+      "573973",
+      "",
+      "",
+      "5200 Odense V",
+      "Gns. nettoformue: 573.973 kroner",
+      "Medianformue: 174.808 kroner"
+    ],
+    [
+      "5210",
+      "1284458",
+      "",
+      "",
+      "5210 Odense NV",
+      "Gns. nettoformue: 1.284.458 kroner",
+      "Medianformue: 796.951 kroner"
+    ],
+    [
+      "5220",
+      "849812",
+      "",
+      "",
+      "5220 Odense SØ",
+      "Gns. nettoformue: 849.812 kroner",
+      "Medianformue: 331.052 kroner"
+    ],
+    [
+      "5230",
+      "1443382",
+      "",
+      "",
+      "5230 Odense M",
+      "Gns. nettoformue: 1.443.382 kroner",
+      "Medianformue: 456.052 kroner"
+    ],
+    [
+      "5240",
+      "534593",
+      "",
+      "",
+      "5240 Odense NØ",
+      "Gns. nettoformue: 534.593 kroner",
+      "Medianformue: 126.804 kroner"
+    ],
+    [
+      "5250",
+      "1463263",
+      "",
+      "",
+      "5250 Odense SV",
+      "Gns. nettoformue: 1.463.263 kroner",
+      "Medianformue: 868.953 kroner"
+    ],
+    [
+      "5260",
+      "1249191",
+      "",
+      "",
+      "5260 Odense S",
+      "Gns. nettoformue: 1.249.191 kroner",
+      "Medianformue: 638.311 kroner"
+    ],
+    [
+      "5270",
+      "1154999",
+      "",
+      "",
+      "5270 Odense N",
+      "Gns. nettoformue: 1.154.999 kroner",
+      "Medianformue: 737.334 kroner"
+    ],
+    [
+      "5290",
+      "1138682",
+      "",
+      "",
+      "5290 Marslev",
+      "Gns. nettoformue: 1.138.682 kroner",
+      "Medianformue: 655.561 kroner"
+    ],
+    [
+      "5300",
+      "1456605",
+      "",
+      "",
+      "5300 Kerteminde",
+      "Gns. nettoformue: 1.456.605 kroner",
+      "Medianformue: 777.580 kroner"
+    ],
+    [
+      "5320",
+      "1186952",
+      "",
+      "",
+      "5320 Agedrup",
+      "Gns. nettoformue: 1.186.952 kroner",
+      "Medianformue: 808.578 kroner"
+    ],
+    [
+      "5330",
+      "952975",
+      "",
+      "",
+      "5330 Munkebo",
+      "Gns. nettoformue: 952.975 kroner",
+      "Medianformue: 572.390 kroner"
+    ],
+    [
+      "5350",
+      "998009",
+      "",
+      "",
+      "5350 Rynkeby",
+      "Gns. nettoformue: 998.009 kroner",
+      "Medianformue: 658.009 kroner"
+    ],
+    [
+      "5370",
+      "1140081",
+      "",
+      "",
+      "5370 Mesinge",
+      "Gns. nettoformue: 1.140.081 kroner",
+      "Medianformue: 650.755 kroner"
+    ],
+    [
+      "5380",
+      "1178504",
+      "",
+      "",
+      "5380 Dalby",
+      "Gns. nettoformue: 1.178.504 kroner",
+      "Medianformue: 662.151 kroner"
+    ],
+    [
+      "5390",
+      "1582754",
+      "",
+      "",
+      "5390 Martofte",
+      "Gns. nettoformue: 1.582.754 kroner",
+      "Medianformue: 778.338 kroner"
+    ],
+    [
+      "5400",
+      "1051373",
+      "",
+      "",
+      "5400 Bogense",
+      "Gns. nettoformue: 1.051.373 kroner",
+      "Medianformue: 548.705 kroner"
+    ],
+    [
+      "5450",
+      "1052629",
+      "",
+      "",
+      "5450 Otterup",
+      "Gns. nettoformue: 1.052.629 kroner",
+      "Medianformue: 564.017 kroner"
+    ],
+    [
+      "5462",
+      "1478687",
+      "",
+      "",
+      "5462 Morud",
+      "Gns. nettoformue: 1.478.687 kroner",
+      "Medianformue: 941.792 kroner"
+    ],
+    [
+      "5463",
+      "1018362",
+      "",
+      "",
+      "5463 Harndrup",
+      "Gns. nettoformue: 1.018.362 kroner",
+      "Medianformue: 553.460 kroner"
+    ],
+    [
+      "5464",
+      "1050877",
+      "",
+      "",
+      "5464 Brenderup Fyn",
+      "Gns. nettoformue: 1.050.877 kroner",
+      "Medianformue: 626.769 kroner"
+    ],
+    [
+      "5466",
+      "1346669",
+      "",
+      "",
+      "5466 Asperup",
+      "Gns. nettoformue: 1.346.669 kroner",
+      "Medianformue: 818.424 kroner"
+    ],
+    [
+      "5471",
+      "1052814",
+      "",
+      "",
+      "5471 Søndersø",
+      "Gns. nettoformue: 1.052.814 kroner",
+      "Medianformue: 558.829 kroner"
+    ],
+    [
+      "5474",
+      "1102598",
+      "",
+      "",
+      "5474 Veflinge",
+      "Gns. nettoformue: 1.102.598 kroner",
+      "Medianformue: 532.472 kroner"
+    ],
+    [
+      "5485",
+      "1050196",
+      "",
+      "",
+      "5485 Skamby",
+      "Gns. nettoformue: 1.050.196 kroner",
+      "Medianformue: 463.706 kroner"
+    ],
+    [
+      "5491",
+      "1287452",
+      "",
+      "",
+      "5491 Blommenslyst",
+      "Gns. nettoformue: 1.287.452 kroner",
+      "Medianformue: 705.449 kroner"
+    ],
+    [
+      "5492",
+      "1035971",
+      "",
+      "",
+      "5492 Vissenbjerg",
+      "Gns. nettoformue: 1.035.971 kroner",
+      "Medianformue: 616.789 kroner"
+    ],
+    [
+      "5500",
+      "1356217",
+      "",
+      "",
+      "5500 Middelfart",
+      "Gns. nettoformue: 1.356.217 kroner",
+      "Medianformue: 770.598 kroner"
+    ],
+    [
+      "5540",
+      "1045112",
+      "",
+      "",
+      "5540 Ullerslev",
+      "Gns. nettoformue: 1.045.112 kroner",
+      "Medianformue: 585.663 kroner"
+    ],
+    [
+      "5550",
+      "1026040",
+      "",
+      "",
+      "5550 Langeskov",
+      "Gns. nettoformue: 1.026.040 kroner",
+      "Medianformue: 620.999 kroner"
+    ],
+    [
+      "5560",
+      "992383",
+      "",
+      "",
+      "5560 Aarup",
+      "Gns. nettoformue: 992.383 kroner",
+      "Medianformue: 558.059 kroner"
+    ],
+    [
+      "5580",
+      "1058081",
+      "",
+      "",
+      "5580 Nørre Aaby",
+      "Gns. nettoformue: 1.058.081 kroner",
+      "Medianformue: 537.250 kroner"
+    ],
+    [
+      "5591",
+      "1043864",
+      "",
+      "",
+      "5591 Gelsted",
+      "Gns. nettoformue: 1.043.864 kroner",
+      "Medianformue: 516.472 kroner"
+    ],
+    [
+      "5592",
+      "1206594",
+      "",
+      "",
+      "5592 Ejby",
+      "Gns. nettoformue: 1.206.594 kroner",
+      "Medianformue: 535.535 kroner"
+    ],
+    [
+      "5600",
+      "1137771",
+      "",
+      "",
+      "5600 Faaborg",
+      "Gns. nettoformue: 1.137.771 kroner",
+      "Medianformue: 627.375 kroner"
+    ],
+    [
+      "5610",
+      "1052329",
+      "",
+      "",
+      "5610 Assens",
+      "Gns. nettoformue: 1.052.329 kroner",
+      "Medianformue: 502.537 kroner"
+    ],
+    [
+      "5620",
+      "941392",
+      "",
+      "",
+      "5620 Glamsbjerg",
+      "Gns. nettoformue: 941.392 kroner",
+      "Medianformue: 510.550 kroner"
+    ],
+    [
+      "5631",
+      "1164258",
+      "",
+      "",
+      "5631 Ebberup",
+      "Gns. nettoformue: 1.164.258 kroner",
+      "Medianformue: 606.143 kroner"
+    ],
+    [
+      "5642",
+      "1980379",
+      "",
+      "",
+      "5642 Millinge",
+      "Gns. nettoformue: 1.980.379 kroner",
+      "Medianformue: 704.431 kroner"
+    ],
+    [
+      "5672",
+      "971979",
+      "",
+      "",
+      "5672 Broby",
+      "Gns. nettoformue: 971.979 kroner",
+      "Medianformue: 533.264 kroner"
+    ],
+    [
+      "5683",
+      "1119095",
+      "",
+      "",
+      "5683 Haarby",
+      "Gns. nettoformue: 1.119.095 kroner",
+      "Medianformue: 627.103 kroner"
+    ],
+    [
+      "5690",
+      "1012447",
+      "",
+      "",
+      "5690 Tommerup",
+      "Gns. nettoformue: 1.012.447 kroner",
+      "Medianformue: 584.879 kroner"
+    ],
+    [
+      "5700",
+      "1263119",
+      "",
+      "",
+      "5700 Svendborg",
+      "Gns. nettoformue: 1.263.119 kroner",
+      "Medianformue: 595.695 kroner"
+    ],
+    [
+      "5750",
+      "1048465",
+      "",
+      "",
+      "5750 Ringe",
+      "Gns. nettoformue: 1.048.465 kroner",
+      "Medianformue: 565.987 kroner"
+    ],
+    [
+      "5762",
+      "1204636",
+      "",
+      "",
+      "5762 Vester Skerninge",
+      "Gns. nettoformue: 1.204.636 kroner",
+      "Medianformue: 688.833 kroner"
+    ],
+    [
+      "5771",
+      "976495",
+      "",
+      "",
+      "5771 Stenstrup",
+      "Gns. nettoformue: 976.495 kroner",
+      "Medianformue: 572.739 kroner"
+    ],
+    [
+      "5772",
+      "861852",
+      "",
+      "",
+      "5772 Kværndrup",
+      "Gns. nettoformue: 861.852 kroner",
+      "Medianformue: 460.599 kroner"
+    ],
+    [
+      "5792",
+      "1226399",
+      "",
+      "",
+      "5792 Årslev",
+      "Gns. nettoformue: 1.226.399 kroner",
+      "Medianformue: 757.974 kroner"
+    ],
+    [
+      "5800",
+      "1148698",
+      "",
+      "",
+      "5800 Nyborg",
+      "Gns. nettoformue: 1.148.698 kroner",
+      "Medianformue: 583.337 kroner"
+    ],
+    [
+      "5853",
+      "1110168",
+      "",
+      "",
+      "5853 Ørbæk",
+      "Gns. nettoformue: 1.110.168 kroner",
+      "Medianformue: 563.180 kroner"
+    ],
+    [
+      "5854",
+      "922026",
+      "",
+      "",
+      "5854 Gislev",
+      "Gns. nettoformue: 922.026 kroner",
+      "Medianformue: 546.325 kroner"
+    ],
+    [
+      "5856",
+      "1005157",
+      "",
+      "",
+      "5856 Ryslinge",
+      "Gns. nettoformue: 1.005.157 kroner",
+      "Medianformue: 645.104 kroner"
+    ],
+    [
+      "5863",
+      "1006987",
+      "",
+      "",
+      "5863 Ferritslev Fyn",
+      "Gns. nettoformue: 1.006.987 kroner",
+      "Medianformue: 646.280 kroner"
+    ],
+    [
+      "5871",
+      "1246214",
+      "",
+      "",
+      "5871 Frørup",
+      "Gns. nettoformue: 1.246.214 kroner",
+      "Medianformue: 649.607 kroner"
+    ],
+    [
+      "5874",
+      "1186138",
+      "",
+      "",
+      "5874 Hesselager",
+      "Gns. nettoformue: 1.186.138 kroner",
+      "Medianformue: 681.375 kroner"
+    ],
+    [
+      "5881",
+      "1235754",
+      "",
+      "",
+      "5881 Skårup Fyn",
+      "Gns. nettoformue: 1.235.754 kroner",
+      "Medianformue: 785.905 kroner"
+    ],
+    [
+      "5882",
+      "1229643",
+      "",
+      "",
+      "5882 Vejstrup",
+      "Gns. nettoformue: 1.229.643 kroner",
+      "Medianformue: 596.772 kroner"
+    ],
+    [
+      "5883",
+      "1096666",
+      "",
+      "",
+      "5883 Oure",
+      "Gns. nettoformue: 1.096.666 kroner",
+      "Medianformue: 620.578 kroner"
+    ],
+    [
+      "5884",
+      "1097957",
+      "",
+      "",
+      "5884 Gudme",
+      "Gns. nettoformue: 1.097.957 kroner",
+      "Medianformue: 581.156 kroner"
+    ],
+    [
+      "5892",
+      "1119544",
+      "",
+      "",
+      "5892 Gudbjerg Sydfyn",
+      "Gns. nettoformue: 1.119.544 kroner",
+      "Medianformue: 600.793 kroner"
+    ],
+    [
+      "5900",
+      "1006714",
+      "",
+      "",
+      "5900 Rudkøbing",
+      "Gns. nettoformue: 1.006.714 kroner",
+      "Medianformue: 550.239 kroner"
+    ],
+    [
+      "5932",
+      "1138949",
+      "",
+      "",
+      "5932 Humble",
+      "Gns. nettoformue: 1.138.949 kroner",
+      "Medianformue: 672.061 kroner"
+    ],
+    [
+      "5935",
+      "1119529",
+      "",
+      "",
+      "5935 Bagenkop",
+      "Gns. nettoformue: 1.119.529 kroner",
+      "Medianformue: 632.183 kroner"
+    ],
+    [
+      "5953",
+      "1111125",
+      "",
+      "",
+      "5953 Tranekær",
+      "Gns. nettoformue: 1.111.125 kroner",
+      "Medianformue: 547.372 kroner"
+    ],
+    [
+      "5960",
+      "1079219",
+      "",
+      "",
+      "5960 Marstal",
+      "Gns. nettoformue: 1.079.219 kroner",
+      "Medianformue: 542.741 kroner"
+    ],
+    [
+      "5970",
+      "1292208",
+      "",
+      "",
+      "5970 Ærøskøbing",
+      "Gns. nettoformue: 1.292.208 kroner",
+      "Medianformue: 780.091 kroner"
+    ],
+    [
+      "5985",
+      "1078918",
+      "",
+      "",
+      "5985 Søby Ærø",
+      "Gns. nettoformue: 1.078.918 kroner",
+      "Medianformue: 749.898 kroner"
+    ],
+    [
+      "6000",
+      "1099915",
+      "",
+      "",
+      "6000 Kolding",
+      "Gns. nettoformue: 1.099.915 kroner",
+      "Medianformue: 481.733 kroner"
+    ],
+    [
+      "6040",
+      "1262407",
+      "",
+      "",
+      "6040 Egtved",
+      "Gns. nettoformue: 1.262.407 kroner",
+      "Medianformue: 697.810 kroner"
+    ],
+    [
+      "6051",
+      "1320086",
+      "",
+      "",
+      "6051 Almind",
+      "Gns. nettoformue: 1.320.086 kroner",
+      "Medianformue: 830.589 kroner"
+    ],
+    [
+      "6052",
+      "1189750",
+      "",
+      "",
+      "6052 Viuf",
+      "Gns. nettoformue: 1.189.750 kroner",
+      "Medianformue: 595.693 kroner"
+    ],
+    [
+      "6064",
+      "1241183",
+      "",
+      "",
+      "6064 Jordrup",
+      "Gns. nettoformue: 1.241.183 kroner",
+      "Medianformue: 693.773 kroner"
+    ],
+    [
+      "6070",
+      "1079447",
+      "",
+      "",
+      "6070 Christiansfeld",
+      "Gns. nettoformue: 1.079.447 kroner",
+      "Medianformue: 569.010 kroner"
+    ],
+    [
+      "6091",
+      "1653996",
+      "",
+      "",
+      "6091 Bjert",
+      "Gns. nettoformue: 1.653.996 kroner",
+      "Medianformue: 932.950 kroner"
+    ],
+    [
+      "6092",
+      "1327535",
+      "",
+      "",
+      "6092 Sønder Stenderup",
+      "Gns. nettoformue: 1.327.535 kroner",
+      "Medianformue: 678.751 kroner"
+    ],
+    [
+      "6093",
+      "1081120",
+      "",
+      "",
+      "6093 Sjølund",
+      "Gns. nettoformue: 1.081.120 kroner",
+      "Medianformue: 515.722 kroner"
+    ],
+    [
+      "6094",
+      "1450908",
+      "",
+      "",
+      "6094 Hejls",
+      "Gns. nettoformue: 1.450.908 kroner",
+      "Medianformue: 854.039 kroner"
+    ],
+    [
+      "6100",
+      "1114470",
+      "",
+      "",
+      "6100 Haderslev",
+      "Gns. nettoformue: 1.114.470 kroner",
+      "Medianformue: 522.362 kroner"
+    ],
+    [
+      "6200",
+      "1191368",
+      "",
+      "",
+      "6200 Aabenraa",
+      "Gns. nettoformue: 1.191.368 kroner",
+      "Medianformue: 554.739 kroner"
+    ],
+    [
+      "6230",
+      "1109521",
+      "",
+      "",
+      "6230 Rødekro",
+      "Gns. nettoformue: 1.109.521 kroner",
+      "Medianformue: 616.902 kroner"
+    ],
+    [
+      "6240",
+      "1006450",
+      "",
+      "",
+      "6240 Løgumkloster",
+      "Gns. nettoformue: 1.006.450 kroner",
+      "Medianformue: 522.022 kroner"
+    ],
+    [
+      "6261",
+      "1100551",
+      "",
+      "",
+      "6261 Bredebro",
+      "Gns. nettoformue: 1.100.551 kroner",
+      "Medianformue: 580.934 kroner"
+    ],
+    [
+      "6270",
+      "1118295",
+      "",
+      "",
+      "6270 Tønder",
+      "Gns. nettoformue: 1.118.295 kroner",
+      "Medianformue: 598.094 kroner"
+    ],
+    [
+      "6280",
+      "1030166",
+      "",
+      "",
+      "6280 Højer",
+      "Gns. nettoformue: 1.030.166 kroner",
+      "Medianformue: 541.311 kroner"
+    ],
+    [
+      "6300",
+      "1091683",
+      "",
+      "",
+      "6300 Gråsten",
+      "Gns. nettoformue: 1.091.683 kroner",
+      "Medianformue: 615.405 kroner"
+    ],
+    [
+      "6310",
+      "1108331",
+      "",
+      "",
+      "6310 Broager",
+      "Gns. nettoformue: 1.108.331 kroner",
+      "Medianformue: 656.101 kroner"
+    ],
+    [
+      "6320",
+      "1011830",
+      "",
+      "",
+      "6320 Egernsund",
+      "Gns. nettoformue: 1.011.830 kroner",
+      "Medianformue: 665.105 kroner"
+    ],
+    [
+      "6330",
+      "906640",
+      "",
+      "",
+      "6330 Padborg",
+      "Gns. nettoformue: 906.640 kroner",
+      "Medianformue: 508.754 kroner"
+    ],
+    [
+      "6340",
+      "1256960",
+      "",
+      "",
+      "6340 Kruså",
+      "Gns. nettoformue: 1.256.960 kroner",
+      "Medianformue: 594.301 kroner"
+    ],
+    [
+      "6360",
+      "1055783",
+      "",
+      "",
+      "6360 Tinglev",
+      "Gns. nettoformue: 1.055.783 kroner",
+      "Medianformue: 504.131 kroner"
+    ],
+    [
+      "6372",
+      "1198305",
+      "",
+      "",
+      "6372 Bylderup-Bov",
+      "Gns. nettoformue: 1.198.305 kroner",
+      "Medianformue: 563.356 kroner"
+    ],
+    [
+      "6392",
+      "1079541",
+      "",
+      "",
+      "6392 Bolderslev",
+      "Gns. nettoformue: 1.079.541 kroner",
+      "Medianformue: 531.322 kroner"
+    ],
+    [
+      "6400",
+      "1056255",
+      "",
+      "",
+      "6400 Sønderborg",
+      "Gns. nettoformue: 1.056.255 kroner",
+      "Medianformue: 487.037 kroner"
+    ],
+    [
+      "6430",
+      "901319",
+      "",
+      "",
+      "6430 Nordborg",
+      "Gns. nettoformue: 901.319 kroner",
+      "Medianformue: 531.976 kroner"
+    ],
+    [
+      "6440",
+      "1103769",
+      "",
+      "",
+      "6440 Augustenborg",
+      "Gns. nettoformue: 1.103.769 kroner",
+      "Medianformue: 664.536 kroner"
+    ],
+    [
+      "6470",
+      "1373787",
+      "",
+      "",
+      "6470 Sydals",
+      "Gns. nettoformue: 1.373.787 kroner",
+      "Medianformue: 736.637 kroner"
+    ],
+    [
+      "6500",
+      "923366",
+      "",
+      "",
+      "6500 Vojens",
+      "Gns. nettoformue: 923.366 kroner",
+      "Medianformue: 503.367 kroner"
+    ],
+    [
+      "6510",
+      "919693",
+      "",
+      "",
+      "6510 Gram",
+      "Gns. nettoformue: 919.693 kroner",
+      "Medianformue: 472.163 kroner"
+    ],
+    [
+      "6520",
+      "1119381",
+      "",
+      "",
+      "6520 Toftlund",
+      "Gns. nettoformue: 1.119.381 kroner",
+      "Medianformue: 583.586 kroner"
+    ],
+    [
+      "6534",
+      "898061",
+      "",
+      "",
+      "6534 Agerskov",
+      "Gns. nettoformue: 898.061 kroner",
+      "Medianformue: 505.676 kroner"
+    ],
+    [
+      "6535",
+      "1029108",
+      "",
+      "",
+      "6535 Branderup J",
+      "Gns. nettoformue: 1.029.108 kroner",
+      "Medianformue: 423.690 kroner"
+    ],
+    [
+      "6541",
+      "963956",
+      "",
+      "",
+      "6541 Bevtoft",
+      "Gns. nettoformue: 963.956 kroner",
+      "Medianformue: 490.492 kroner"
+    ],
+    [
+      "6560",
+      "1035458",
+      "",
+      "",
+      "6560 Sommersted",
+      "Gns. nettoformue: 1.035.458 kroner",
+      "Medianformue: 443.309 kroner"
+    ],
+    [
+      "6580",
+      "1095433",
+      "",
+      "",
+      "6580 Vamdrup",
+      "Gns. nettoformue: 1.095.433 kroner",
+      "Medianformue: 570.801 kroner"
+    ],
+    [
+      "6600",
+      "1101434",
+      "",
+      "",
+      "6600 Vejen",
+      "Gns. nettoformue: 1.101.434 kroner",
+      "Medianformue: 616.693 kroner"
+    ],
+    [
+      "6621",
+      "892857",
+      "",
+      "",
+      "6621 Gesten",
+      "Gns. nettoformue: 892.857 kroner",
+      "Medianformue: 544.307 kroner"
+    ],
+    [
+      "6622",
+      "811691",
+      "",
+      "",
+      "6622 Bække",
+      "Gns. nettoformue: 811.691 kroner",
+      "Medianformue: 435.451 kroner"
+    ],
+    [
+      "6623",
+      "1085832",
+      "",
+      "",
+      "6623 Vorbasse",
+      "Gns. nettoformue: 1.085.832 kroner",
+      "Medianformue: 663.141 kroner"
+    ],
+    [
+      "6630",
+      "1022805",
+      "",
+      "",
+      "6630 Rødding",
+      "Gns. nettoformue: 1.022.805 kroner",
+      "Medianformue: 537.026 kroner"
+    ],
+    [
+      "6640",
+      "1104756",
+      "",
+      "",
+      "6640 Lunderskov",
+      "Gns. nettoformue: 1.104.756 kroner",
+      "Medianformue: 631.549 kroner"
+    ],
+    [
+      "6650",
+      "1038375",
+      "",
+      "",
+      "6650 Brørup",
+      "Gns. nettoformue: 1.038.375 kroner",
+      "Medianformue: 576.748 kroner"
+    ],
+    [
+      "6660",
+      "1205459",
+      "",
+      "",
+      "6660 Lintrup",
+      "Gns. nettoformue: 1.205.459 kroner",
+      "Medianformue: 484.528 kroner"
+    ],
+    [
+      "6670",
+      "1002318",
+      "",
+      "",
+      "6670 Holsted",
+      "Gns. nettoformue: 1.002.318 kroner",
+      "Medianformue: 556.513 kroner"
+    ],
+    [
+      "6682",
+      "856053",
+      "",
+      "",
+      "6682 Hovborg",
+      "Gns. nettoformue: 856.053 kroner",
+      "Medianformue: 572.166 kroner"
+    ],
+    [
+      "6683",
+      "913685",
+      "",
+      "",
+      "6683 Føvling",
+      "Gns. nettoformue: 913.685 kroner",
+      "Medianformue: 537.116 kroner"
+    ],
+    [
+      "6690",
+      "998633",
+      "",
+      "",
+      "6690 Gørding",
+      "Gns. nettoformue: 998.633 kroner",
+      "Medianformue: 578.091 kroner"
+    ],
+    [
+      "6700",
+      "851745",
+      "",
+      "",
+      "6700 Esbjerg",
+      "Gns. nettoformue: 851.745 kroner",
+      "Medianformue: 282.287 kroner"
+    ],
+    [
+      "6705",
+      "777685",
+      "",
+      "",
+      "6705 Esbjerg Ø",
+      "Gns. nettoformue: 777.685 kroner",
+      "Medianformue: 312.663 kroner"
+    ],
+    [
+      "6710",
+      "1500788",
+      "",
+      "",
+      "6710 Esbjerg V",
+      "Gns. nettoformue: 1.500.788 kroner",
+      "Medianformue: 893.666 kroner"
+    ],
+    [
+      "6715",
+      "1315192",
+      "",
+      "",
+      "6715 Esbjerg N",
+      "Gns. nettoformue: 1.315.192 kroner",
+      "Medianformue: 728.737 kroner"
+    ],
+    [
+      "6720",
+      "1639264",
+      "",
+      "",
+      "6720 Fanø",
+      "Gns. nettoformue: 1.639.264 kroner",
+      "Medianformue: 1.025.040 kroner"
+    ],
+    [
+      "6731",
+      "1324679",
+      "",
+      "",
+      "6731 Tjæreborg",
+      "Gns. nettoformue: 1.324.679 kroner",
+      "Medianformue: 872.428 kroner"
+    ],
+    [
+      "6740",
+      "1100061",
+      "",
+      "",
+      "6740 Bramming",
+      "Gns. nettoformue: 1.100.061 kroner",
+      "Medianformue: 657.893 kroner"
+    ],
+    [
+      "6752",
+      "995442",
+      "",
+      "",
+      "6752 Glejbjerg",
+      "Gns. nettoformue: 995.442 kroner",
+      "Medianformue: 510.304 kroner"
+    ],
+    [
+      "6753",
+      "1178488",
+      "",
+      "",
+      "6753 Agerbæk",
+      "Gns. nettoformue: 1.178.488 kroner",
+      "Medianformue: 649.866 kroner"
+    ],
+    [
+      "6760",
+      "1273756",
+      "",
+      "",
+      "6760 Ribe",
+      "Gns. nettoformue: 1.273.756 kroner",
+      "Medianformue: 708.065 kroner"
+    ],
+    [
+      "6771",
+      "999708",
+      "",
+      "",
+      "6771 Gredstedbro",
+      "Gns. nettoformue: 999.708 kroner",
+      "Medianformue: 602.358 kroner"
+    ],
+    [
+      "6780",
+      "977797",
+      "",
+      "",
+      "6780 Skærbæk",
+      "Gns. nettoformue: 977.797 kroner",
+      "Medianformue: 535.624 kroner"
+    ],
+    [
+      "6792",
+      "1442458",
+      "",
+      "",
+      "6792 Rømø",
+      "Gns. nettoformue: 1.442.458 kroner",
+      "Medianformue: 841.052 kroner"
+    ],
+    [
+      "6800",
+      "1207730",
+      "",
+      "",
+      "6800 Varde",
+      "Gns. nettoformue: 1.207.730 kroner",
+      "Medianformue: 653.492 kroner"
+    ],
+    [
+      "6818",
+      "1188627",
+      "",
+      "",
+      "6818 Årre",
+      "Gns. nettoformue: 1.188.627 kroner",
+      "Medianformue: 610.516 kroner"
+    ],
+    [
+      "6823",
+      "1024777",
+      "",
+      "",
+      "6823 Ansager",
+      "Gns. nettoformue: 1.024.777 kroner",
+      "Medianformue: 578.264 kroner"
+    ],
+    [
+      "6830",
+      "1188233",
+      "",
+      "",
+      "6830 Nørre Nebel",
+      "Gns. nettoformue: 1.188.233 kroner",
+      "Medianformue: 700.189 kroner"
+    ],
+    [
+      "6840",
+      "1257504",
+      "",
+      "",
+      "6840 Oksbøl",
+      "Gns. nettoformue: 1.257.504 kroner",
+      "Medianformue: 805.832 kroner"
+    ],
+    [
+      "6851",
+      "1465623",
+      "",
+      "",
+      "6851 Janderup Vestj",
+      "Gns. nettoformue: 1.465.623 kroner",
+      "Medianformue: 773.762 kroner"
+    ],
+    [
+      "6852",
+      "1161091",
+      "",
+      "",
+      "6852 Billum",
+      "Gns. nettoformue: 1.161.091 kroner",
+      "Medianformue: 755.425 kroner"
+    ],
+    [
+      "6853",
+      "1900207",
+      "",
+      "",
+      "6853 Vejers Strand",
+      "Gns. nettoformue: 1.900.207 kroner",
+      "Medianformue: 1.235.605 kroner"
+    ],
+    [
+      "6854",
+      "1386399",
+      "",
+      "",
+      "6854 Henne",
+      "Gns. nettoformue: 1.386.399 kroner",
+      "Medianformue: 637.386 kroner"
+    ],
+    [
+      "6855",
+      "1061576",
+      "",
+      "",
+      "6855 Outrup",
+      "Gns. nettoformue: 1.061.576 kroner",
+      "Medianformue: 613.827 kroner"
+    ],
+    [
+      "6857",
+      "2283057",
+      "",
+      "",
+      "6857 Blåvand",
+      "Gns. nettoformue: 2.283.057 kroner",
+      "Medianformue: 1.237.711 kroner"
+    ],
+    [
+      "6862",
+      "1160835",
+      "",
+      "",
+      "6862 Tistrup",
+      "Gns. nettoformue: 1.160.835 kroner",
+      "Medianformue: 662.714 kroner"
+    ],
+    [
+      "6870",
+      "1141495",
+      "",
+      "",
+      "6870 Ølgod",
+      "Gns. nettoformue: 1.141.495 kroner",
+      "Medianformue: 712.662 kroner"
+    ],
+    [
+      "6880",
+      "1086928",
+      "",
+      "",
+      "6880 Tarm",
+      "Gns. nettoformue: 1.086.928 kroner",
+      "Medianformue: 611.734 kroner"
+    ],
+    [
+      "6893",
+      "1157912",
+      "",
+      "",
+      "6893 Hemmet",
+      "Gns. nettoformue: 1.157.912 kroner",
+      "Medianformue: 607.241 kroner"
+    ],
+    [
+      "6900",
+      "1197379",
+      "",
+      "",
+      "6900 Skjern",
+      "Gns. nettoformue: 1.197.379 kroner",
+      "Medianformue: 685.838 kroner"
+    ],
+    [
+      "6920",
+      "1092818",
+      "",
+      "",
+      "6920 Videbæk",
+      "Gns. nettoformue: 1.092.818 kroner",
+      "Medianformue: 665.660 kroner"
+    ],
+    [
+      "6933",
+      "1110534",
+      "",
+      "",
+      "6933 Kibæk",
+      "Gns. nettoformue: 1.110.534 kroner",
+      "Medianformue: 696.000 kroner"
+    ],
+    [
+      "6940",
+      "1093180",
+      "",
+      "",
+      "6940 Lem St",
+      "Gns. nettoformue: 1.093.180 kroner",
+      "Medianformue: 690.030 kroner"
+    ],
+    [
+      "6950",
+      "1448521",
+      "",
+      "",
+      "6950 Ringkøbing",
+      "Gns. nettoformue: 1.448.521 kroner",
+      "Medianformue: 773.690 kroner"
+    ],
+    [
+      "6960",
+      "1291989",
+      "",
+      "",
+      "6960 Hvide Sande",
+      "Gns. nettoformue: 1.291.989 kroner",
+      "Medianformue: 632.039 kroner"
+    ],
+    [
+      "6971",
+      "1121039",
+      "",
+      "",
+      "6971 Spjald",
+      "Gns. nettoformue: 1.121.039 kroner",
+      "Medianformue: 632.992 kroner"
+    ],
+    [
+      "6973",
+      "1085908",
+      "",
+      "",
+      "6973 Ørnhøj",
+      "Gns. nettoformue: 1.085.908 kroner",
+      "Medianformue: 546.381 kroner"
+    ],
+    [
+      "6980",
+      "1199554",
+      "",
+      "",
+      "6980 Tim",
+      "Gns. nettoformue: 1.199.554 kroner",
+      "Medianformue: 666.743 kroner"
+    ],
+    [
+      "6990",
+      "1189502",
+      "",
+      "",
+      "6990 Ulfborg",
+      "Gns. nettoformue: 1.189.502 kroner",
+      "Medianformue: 654.708 kroner"
+    ],
+    [
+      "7000",
+      "1068288",
+      "",
+      "",
+      "7000 Fredericia",
+      "Gns. nettoformue: 1.068.288 kroner",
+      "Medianformue: 508.324 kroner"
+    ],
+    [
+      "7080",
+      "1178324",
+      "",
+      "",
+      "7080 Børkop",
+      "Gns. nettoformue: 1.178.324 kroner",
+      "Medianformue: 696.420 kroner"
+    ],
+    [
+      "7100",
+      "1017016",
+      "",
+      "",
+      "7100 Vejle",
+      "Gns. nettoformue: 1.017.016 kroner",
+      "Medianformue: 467.514 kroner"
+    ],
+    [
+      "7120",
+      "2132378",
+      "",
+      "",
+      "7120 Vejle Øst",
+      "Gns. nettoformue: 2.132.378 kroner",
+      "Medianformue: 1.204.435 kroner"
+    ],
+    [
+      "7130",
+      "1345754",
+      "",
+      "",
+      "7130 Juelsminde",
+      "Gns. nettoformue: 1.345.754 kroner",
+      "Medianformue: 743.202 kroner"
+    ],
+    [
+      "7140",
+      "1194617",
+      "",
+      "",
+      "7140 Stouby",
+      "Gns. nettoformue: 1.194.617 kroner",
+      "Medianformue: 672.191 kroner"
+    ],
+    [
+      "7150",
+      "1031838",
+      "",
+      "",
+      "7150 Barrit",
+      "Gns. nettoformue: 1.031.838 kroner",
+      "Medianformue: 559.623 kroner"
+    ],
+    [
+      "7160",
+      "1073146",
+      "",
+      "",
+      "7160 Tørring",
+      "Gns. nettoformue: 1.073.146 kroner",
+      "Medianformue: 552.871 kroner"
+    ],
+    [
+      "7171",
+      "1141688",
+      "",
+      "",
+      "7171 Uldum",
+      "Gns. nettoformue: 1.141.688 kroner",
+      "Medianformue: 653.270 kroner"
+    ],
+    [
+      "7173",
+      "962716",
+      "",
+      "",
+      "7173 Vonge",
+      "Gns. nettoformue: 962.716 kroner",
+      "Medianformue: 522.657 kroner"
+    ],
+    [
+      "7182",
+      "1418717",
+      "",
+      "",
+      "7182 Bredsten",
+      "Gns. nettoformue: 1.418.717 kroner",
+      "Medianformue: 853.453 kroner"
+    ],
+    [
+      "7183",
+      "1608283",
+      "",
+      "",
+      "7183 Randbøl",
+      "Gns. nettoformue: 1.608.283 kroner",
+      "Medianformue: 829.616 kroner"
+    ],
+    [
+      "7184",
+      "861385",
+      "",
+      "",
+      "7184 Vandel",
+      "Gns. nettoformue: 861.385 kroner",
+      "Medianformue: 570.664 kroner"
+    ],
+    [
+      "7190",
+      "1484472",
+      "",
+      "",
+      "7190 Billund",
+      "Gns. nettoformue: 1.484.472 kroner",
+      "Medianformue: 865.727 kroner"
+    ],
+    [
+      "7200",
+      "1171790",
+      "",
+      "",
+      "7200 Grindsted",
+      "Gns. nettoformue: 1.171.790 kroner",
+      "Medianformue: 665.822 kroner"
+    ],
+    [
+      "7250",
+      "1083066",
+      "",
+      "",
+      "7250 Hejnsvig",
+      "Gns. nettoformue: 1.083.066 kroner",
+      "Medianformue: 685.852 kroner"
+    ],
+    [
+      "7260",
+      "1039646",
+      "",
+      "",
+      "7260 Sønder Omme",
+      "Gns. nettoformue: 1.039.646 kroner",
+      "Medianformue: 679.184 kroner"
+    ],
+    [
+      "7270",
+      "785166",
+      "",
+      "",
+      "7270 Stakroge",
+      "Gns. nettoformue: 785.166 kroner",
+      "Medianformue: 461.347 kroner"
+    ],
+    [
+      "7280",
+      "1089792",
+      "",
+      "",
+      "7280 Sønder Felding",
+      "Gns. nettoformue: 1.089.792 kroner",
+      "Medianformue: 672.273 kroner"
+    ],
+    [
+      "7300",
+      "1298932",
+      "",
+      "",
+      "7300 Jelling",
+      "Gns. nettoformue: 1.298.932 kroner",
+      "Medianformue: 747.664 kroner"
+    ],
+    [
+      "7321",
+      "1162144",
+      "",
+      "",
+      "7321 Gadbjerg",
+      "Gns. nettoformue: 1.162.144 kroner",
+      "Medianformue: 655.457 kroner"
+    ],
+    [
+      "7323",
+      "1144399",
+      "",
+      "",
+      "7323 Give",
+      "Gns. nettoformue: 1.144.399 kroner",
+      "Medianformue: 612.967 kroner"
+    ],
+    [
+      "7330",
+      "1163632",
+      "",
+      "",
+      "7330 Brande",
+      "Gns. nettoformue: 1.163.632 kroner",
+      "Medianformue: 604.233 kroner"
+    ],
+    [
+      "7361",
+      "1309513",
+      "",
+      "",
+      "7361 Ejstrupholm",
+      "Gns. nettoformue: 1.309.513 kroner",
+      "Medianformue: 727.831 kroner"
+    ],
+    [
+      "7362",
+      "935376",
+      "",
+      "",
+      "7362 Hampen",
+      "Gns. nettoformue: 935.376 kroner",
+      "Medianformue: 483.797 kroner"
+    ],
+    [
+      "7400",
+      "1177897",
+      "",
+      "",
+      "7400 Herning",
+      "Gns. nettoformue: 1.177.897 kroner",
+      "Medianformue: 571.277 kroner"
+    ],
+    [
+      "7430",
+      "1148686",
+      "",
+      "",
+      "7430 Ikast",
+      "Gns. nettoformue: 1.148.686 kroner",
+      "Medianformue: 610.873 kroner"
+    ],
+    [
+      "7441",
+      "1239161",
+      "",
+      "",
+      "7441 Bording",
+      "Gns. nettoformue: 1.239.161 kroner",
+      "Medianformue: 694.611 kroner"
+    ],
+    [
+      "7442",
+      "1156062",
+      "",
+      "",
+      "7442 Engesvang",
+      "Gns. nettoformue: 1.156.062 kroner",
+      "Medianformue: 688.919 kroner"
+    ],
+    [
+      "7451",
+      "1294445",
+      "",
+      "",
+      "7451 Sunds",
+      "Gns. nettoformue: 1.294.445 kroner",
+      "Medianformue: 773.982 kroner"
+    ],
+    [
+      "7470",
+      "1017204",
+      "",
+      "",
+      "7470 Karup J",
+      "Gns. nettoformue: 1.017.204 kroner",
+      "Medianformue: 590.796 kroner"
+    ],
+    [
+      "7480",
+      "1205648",
+      "",
+      "",
+      "7480 Vildbjerg",
+      "Gns. nettoformue: 1.205.648 kroner",
+      "Medianformue: 713.311 kroner"
+    ],
+    [
+      "7490",
+      "1125986",
+      "",
+      "",
+      "7490 Aulum",
+      "Gns. nettoformue: 1.125.986 kroner",
+      "Medianformue: 644.075 kroner"
+    ],
+    [
+      "7500",
+      "1178881",
+      "",
+      "",
+      "7500 Holstebro",
+      "Gns. nettoformue: 1.178.881 kroner",
+      "Medianformue: 614.118 kroner"
+    ],
+    [
+      "7540",
+      "1084478",
+      "",
+      "",
+      "7540 Haderup",
+      "Gns. nettoformue: 1.084.478 kroner",
+      "Medianformue: 574.974 kroner"
+    ],
+    [
+      "7550",
+      "1233416",
+      "",
+      "",
+      "7550 Sørvad",
+      "Gns. nettoformue: 1.233.416 kroner",
+      "Medianformue: 796.600 kroner"
+    ],
+    [
+      "7560",
+      "1232082",
+      "",
+      "",
+      "7560 Hjerm",
+      "Gns. nettoformue: 1.232.082 kroner",
+      "Medianformue: 691.376 kroner"
+    ],
+    [
+      "7570",
+      "962658",
+      "",
+      "",
+      "7570 Vemb",
+      "Gns. nettoformue: 962.658 kroner",
+      "Medianformue: 540.956 kroner"
+    ],
+    [
+      "7600",
+      "1050622",
+      "",
+      "",
+      "7600 Struer",
+      "Gns. nettoformue: 1.050.622 kroner",
+      "Medianformue: 577.045 kroner"
+    ],
+    [
+      "7620",
+      "1250663",
+      "",
+      "",
+      "7620 Lemvig",
+      "Gns. nettoformue: 1.250.663 kroner",
+      "Medianformue: 729.588 kroner"
+    ],
+    [
+      "7650",
+      "971586",
+      "",
+      "",
+      "7650 Bøvlingbjerg",
+      "Gns. nettoformue: 971.586 kroner",
+      "Medianformue: 658.525 kroner"
+    ],
+    [
+      "7660",
+      "1084065",
+      "",
+      "",
+      "7660 Bækmarksbro",
+      "Gns. nettoformue: 1.084.065 kroner",
+      "Medianformue: 613.056 kroner"
+    ],
+    [
+      "7673",
+      "1080559",
+      "",
+      "",
+      "7673 Harboøre",
+      "Gns. nettoformue: 1.080.559 kroner",
+      "Medianformue: 654.420 kroner"
+    ],
+    [
+      "7680",
+      "1124535",
+      "",
+      "",
+      "7680 Thyborøn",
+      "Gns. nettoformue: 1.124.535 kroner",
+      "Medianformue: 588.274 kroner"
+    ],
+    [
+      "7700",
+      "1162127",
+      "",
+      "",
+      "7700 Thisted",
+      "Gns. nettoformue: 1.162.127 kroner",
+      "Medianformue: 652.146 kroner"
+    ],
+    [
+      "7730",
+      "939948",
+      "",
+      "",
+      "7730 Hanstholm",
+      "Gns. nettoformue: 939.948 kroner",
+      "Medianformue: 483.914 kroner"
+    ],
+    [
+      "7741",
+      "886177",
+      "",
+      "",
+      "7741 Frøstrup",
+      "Gns. nettoformue: 886.177 kroner",
+      "Medianformue: 544.220 kroner"
+    ],
+    [
+      "7742",
+      "1144712",
+      "",
+      "",
+      "7742 Vesløs",
+      "Gns. nettoformue: 1.144.712 kroner",
+      "Medianformue: 703.424 kroner"
+    ],
+    [
+      "7752",
+      "968791",
+      "",
+      "",
+      "7752 Snedsted",
+      "Gns. nettoformue: 968.791 kroner",
+      "Medianformue: 564.044 kroner"
+    ],
+    [
+      "7755",
+      "1063671",
+      "",
+      "",
+      "7755 Bedsted Thy",
+      "Gns. nettoformue: 1.063.671 kroner",
+      "Medianformue: 506.307 kroner"
+    ],
+    [
+      "7760",
+      "1058599",
+      "",
+      "",
+      "7760 Hurup Thy",
+      "Gns. nettoformue: 1.058.599 kroner",
+      "Medianformue: 562.868 kroner"
+    ],
+    [
+      "7770",
+      "1092777",
+      "",
+      "",
+      "7770 Vestervig",
+      "Gns. nettoformue: 1.092.777 kroner",
+      "Medianformue: 603.385 kroner"
+    ],
+    [
+      "7790",
+      "1132793",
+      "",
+      "",
+      "7790 Thyholm",
+      "Gns. nettoformue: 1.132.793 kroner",
+      "Medianformue: 586.228 kroner"
+    ],
+    [
+      "7800",
+      "1060068",
+      "",
+      "",
+      "7800 Skive",
+      "Gns. nettoformue: 1.060.068 kroner",
+      "Medianformue: 541.532 kroner"
+    ],
+    [
+      "7830",
+      "992467",
+      "",
+      "",
+      "7830 Vinderup",
+      "Gns. nettoformue: 992.467 kroner",
+      "Medianformue: 583.958 kroner"
+    ],
+    [
+      "7840",
+      "1329317",
+      "",
+      "",
+      "7840 Højslev",
+      "Gns. nettoformue: 1.329.317 kroner",
+      "Medianformue: 753.371 kroner"
+    ],
+    [
+      "7850",
+      "1051218",
+      "",
+      "",
+      "7850 Stoholm Jyll",
+      "Gns. nettoformue: 1.051.218 kroner",
+      "Medianformue: 646.707 kroner"
+    ],
+    [
+      "7860",
+      "971946",
+      "",
+      "",
+      "7860 Spøttrup",
+      "Gns. nettoformue: 971.946 kroner",
+      "Medianformue: 616.306 kroner"
+    ],
+    [
+      "7870",
+      "1189607",
+      "",
+      "",
+      "7870 Roslev",
+      "Gns. nettoformue: 1.189.607 kroner",
+      "Medianformue: 667.445 kroner"
+    ],
+    [
+      "7884",
+      "1317197",
+      "",
+      "",
+      "7884 Fur",
+      "Gns. nettoformue: 1.317.197 kroner",
+      "Medianformue: 948.517 kroner"
+    ],
+    [
+      "7900",
+      "1077777",
+      "",
+      "",
+      "7900 Nykøbing M",
+      "Gns. nettoformue: 1.077.777 kroner",
+      "Medianformue: 577.715 kroner"
+    ],
+    [
+      "7950",
+      "1152760",
+      "",
+      "",
+      "7950 Erslev",
+      "Gns. nettoformue: 1.152.760 kroner",
+      "Medianformue: 672.989 kroner"
+    ],
+    [
+      "7960",
+      "1067122",
+      "",
+      "",
+      "7960 Karby",
+      "Gns. nettoformue: 1.067.122 kroner",
+      "Medianformue: 547.119 kroner"
+    ],
+    [
+      "7970",
+      "888428",
+      "",
+      "",
+      "7970 Redsted M",
+      "Gns. nettoformue: 888.428 kroner",
+      "Medianformue: 528.616 kroner"
+    ],
+    [
+      "7980",
+      "1190357",
+      "",
+      "",
+      "7980 Vils",
+      "Gns. nettoformue: 1.190.357 kroner",
+      "Medianformue: 580.324 kroner"
+    ],
+    [
+      "7990",
+      "1132286",
+      "",
+      "",
+      "7990 Øster Assels",
+      "Gns. nettoformue: 1.132.286 kroner",
+      "Medianformue: 589.864 kroner"
+    ],
+    [
+      "8000",
+      "842966",
+      "",
+      "",
+      "8000 Aarhus C",
+      "Gns. nettoformue: 842.966 kroner",
+      "Medianformue: 127.111 kroner"
+    ],
+    [
+      "8200",
+      "746174",
+      "",
+      "",
+      "8200 Aarhus N",
+      "Gns. nettoformue: 746.174 kroner",
+      "Medianformue: 150.081 kroner"
+    ],
+    [
+      "8210",
+      "767237",
+      "",
+      "",
+      "8210 Aarhus V",
+      "Gns. nettoformue: 767.237 kroner",
+      "Medianformue: 147.922 kroner"
+    ],
+    [
+      "8220",
+      "903832",
+      "",
+      "",
+      "8220 Brabrand",
+      "Gns. nettoformue: 903.832 kroner",
+      "Medianformue: 180.954 kroner"
+    ],
+    [
+      "8230",
+      "1418104",
+      "",
+      "",
+      "8230 Åbyhøj",
+      "Gns. nettoformue: 1.418.104 kroner",
+      "Medianformue: 587.666 kroner"
+    ],
+    [
+      "8240",
+      "2361233",
+      "",
+      "",
+      "8240 Risskov",
+      "Gns. nettoformue: 2.361.233 kroner",
+      "Medianformue: 931.553 kroner"
+    ],
+    [
+      "8250",
+      "2266688",
+      "",
+      "",
+      "8250 Egå",
+      "Gns. nettoformue: 2.266.688 kroner",
+      "Medianformue: 1.391.219 kroner"
+    ],
+    [
+      "8260",
+      "1061633",
+      "",
+      "",
+      "8260 Viby J",
+      "Gns. nettoformue: 1.061.633 kroner",
+      "Medianformue: 378.423 kroner"
+    ],
+    [
+      "8270",
+      "2266164",
+      "",
+      "",
+      "8270 Højbjerg",
+      "Gns. nettoformue: 2.266.164 kroner",
+      "Medianformue: 982.346 kroner"
+    ],
+    [
+      "8300",
+      "1391838",
+      "",
+      "",
+      "8300 Odder",
+      "Gns. nettoformue: 1.391.838 kroner",
+      "Medianformue: 773.359 kroner"
+    ],
+    [
+      "8305",
+      "1386040",
+      "",
+      "",
+      "8305 Samsø",
+      "Gns. nettoformue: 1.386.040 kroner",
+      "Medianformue: 749.312 kroner"
+    ],
+    [
+      "8310",
+      "1475870",
+      "",
+      "",
+      "8310 Tranbjerg J",
+      "Gns. nettoformue: 1.475.870 kroner",
+      "Medianformue: 974.960 kroner"
+    ],
+    [
+      "8320",
+      "1833694",
+      "",
+      "",
+      "8320 Mårslet",
+      "Gns. nettoformue: 1.833.694 kroner",
+      "Medianformue: 1.263.884 kroner"
+    ],
+    [
+      "8330",
+      "1944437",
+      "",
+      "",
+      "8330 Beder",
+      "Gns. nettoformue: 1.944.437 kroner",
+      "Medianformue: 1.348.896 kroner"
+    ],
+    [
+      "8340",
+      "1662476",
+      "",
+      "",
+      "8340 Malling",
+      "Gns. nettoformue: 1.662.476 kroner",
+      "Medianformue: 966.316 kroner"
+    ],
+    [
+      "8350",
+      "1319253",
+      "",
+      "",
+      "8350 Hundslund",
+      "Gns. nettoformue: 1.319.253 kroner",
+      "Medianformue: 732.580 kroner"
+    ],
+    [
+      "8355",
+      "1371013",
+      "",
+      "",
+      "8355 Solbjerg",
+      "Gns. nettoformue: 1.371.013 kroner",
+      "Medianformue: 895.741 kroner"
+    ],
+    [
+      "8361",
+      "1173226",
+      "",
+      "",
+      "8361 Hasselager",
+      "Gns. nettoformue: 1.173.226 kroner",
+      "Medianformue: 742.162 kroner"
+    ],
+    [
+      "8362",
+      "1367635",
+      "",
+      "",
+      "8362 Hørning",
+      "Gns. nettoformue: 1.367.635 kroner",
+      "Medianformue: 872.467 kroner"
+    ],
+    [
+      "8370",
+      "1332738",
+      "",
+      "",
+      "8370 Hadsten",
+      "Gns. nettoformue: 1.332.738 kroner",
+      "Medianformue: 806.641 kroner"
+    ],
+    [
+      "8380",
+      "1051376",
+      "",
+      "",
+      "8380 Trige",
+      "Gns. nettoformue: 1.051.376 kroner",
+      "Medianformue: 559.818 kroner"
+    ],
+    [
+      "8381",
+      "1089755",
+      "",
+      "",
+      "8381 Tilst",
+      "Gns. nettoformue: 1.089.755 kroner",
+      "Medianformue: 496.152 kroner"
+    ],
+    [
+      "8382",
+      "1620167",
+      "",
+      "",
+      "8382 Hinnerup",
+      "Gns. nettoformue: 1.620.167 kroner",
+      "Medianformue: 1.080.585 kroner"
+    ],
+    [
+      "8400",
+      "1488209",
+      "",
+      "",
+      "8400 Ebeltoft",
+      "Gns. nettoformue: 1.488.209 kroner",
+      "Medianformue: 815.619 kroner"
+    ],
+    [
+      "8410",
+      "1458655",
+      "",
+      "",
+      "8410 Rønde",
+      "Gns. nettoformue: 1.458.655 kroner",
+      "Medianformue: 890.674 kroner"
+    ],
+    [
+      "8420",
+      "1722572",
+      "",
+      "",
+      "8420 Knebel",
+      "Gns. nettoformue: 1.722.572 kroner",
+      "Medianformue: 979.886 kroner"
+    ],
+    [
+      "8444",
+      "1071906",
+      "",
+      "",
+      "8444 Balle",
+      "Gns. nettoformue: 1.071.906 kroner",
+      "Medianformue: 578.303 kroner"
+    ],
+    [
+      "8450",
+      "1282959",
+      "",
+      "",
+      "8450 Hammel",
+      "Gns. nettoformue: 1.282.959 kroner",
+      "Medianformue: 775.823 kroner"
+    ],
+    [
+      "8462",
+      "1465851",
+      "",
+      "",
+      "8462 Harlev J",
+      "Gns. nettoformue: 1.465.851 kroner",
+      "Medianformue: 875.114 kroner"
+    ],
+    [
+      "8464",
+      "1370243",
+      "",
+      "",
+      "8464 Galten",
+      "Gns. nettoformue: 1.370.243 kroner",
+      "Medianformue: 854.621 kroner"
+    ],
+    [
+      "8471",
+      "1290449",
+      "",
+      "",
+      "8471 Sabro",
+      "Gns. nettoformue: 1.290.449 kroner",
+      "Medianformue: 769.659 kroner"
+    ],
+    [
+      "8472",
+      "1545604",
+      "",
+      "",
+      "8472 Sporup",
+      "Gns. nettoformue: 1.545.604 kroner",
+      "Medianformue: 785.014 kroner"
+    ],
+    [
+      "8500",
+      "971587",
+      "",
+      "",
+      "8500 Grenaa",
+      "Gns. nettoformue: 971.587 kroner",
+      "Medianformue: 477.308 kroner"
+    ],
+    [
+      "8520",
+      "1467141",
+      "",
+      "",
+      "8520 Lystrup",
+      "Gns. nettoformue: 1.467.141 kroner",
+      "Medianformue: 925.380 kroner"
+    ],
+    [
+      "8530",
+      "1381598",
+      "",
+      "",
+      "8530 Hjortshøj",
+      "Gns. nettoformue: 1.381.598 kroner",
+      "Medianformue: 868.587 kroner"
+    ],
+    [
+      "8541",
+      "1564903",
+      "",
+      "",
+      "8541 Skødstrup",
+      "Gns. nettoformue: 1.564.903 kroner",
+      "Medianformue: 981.011 kroner"
+    ],
+    [
+      "8543",
+      "1316441",
+      "",
+      "",
+      "8543 Hornslet",
+      "Gns. nettoformue: 1.316.441 kroner",
+      "Medianformue: 796.941 kroner"
+    ],
+    [
+      "8544",
+      "1151588",
+      "",
+      "",
+      "8544 Mørke",
+      "Gns. nettoformue: 1.151.588 kroner",
+      "Medianformue: 636.086 kroner"
+    ],
+    [
+      "8550",
+      "960574",
+      "",
+      "",
+      "8550 Ryomgård",
+      "Gns. nettoformue: 960.574 kroner",
+      "Medianformue: 557.482 kroner"
+    ],
+    [
+      "8560",
+      "1089943",
+      "",
+      "",
+      "8560 Kolind",
+      "Gns. nettoformue: 1.089.943 kroner",
+      "Medianformue: 556.475 kroner"
+    ],
+    [
+      "8570",
+      "1116827",
+      "",
+      "",
+      "8570 Trustrup",
+      "Gns. nettoformue: 1.116.827 kroner",
+      "Medianformue: 513.514 kroner"
+    ],
+    [
+      "8581",
+      "1027854",
+      "",
+      "",
+      "8581 Nimtofte",
+      "Gns. nettoformue: 1.027.854 kroner",
+      "Medianformue: 478.899 kroner"
+    ],
+    [
+      "8585",
+      "1176554",
+      "",
+      "",
+      "8585 Glesborg",
+      "Gns. nettoformue: 1.176.554 kroner",
+      "Medianformue: 630.537 kroner"
+    ],
+    [
+      "8586",
+      "1088855",
+      "",
+      "",
+      "8586 Ørum Djurs",
+      "Gns. nettoformue: 1.088.855 kroner",
+      "Medianformue: 558.961 kroner"
+    ],
+    [
+      "8592",
+      "1774594",
+      "",
+      "",
+      "8592 Anholt",
+      "Gns. nettoformue: 1.774.594 kroner",
+      "Medianformue: 1.238.164 kroner"
+    ],
+    [
+      "8600",
+      "1444216",
+      "",
+      "",
+      "8600 Silkeborg",
+      "Gns. nettoformue: 1.444.216 kroner",
+      "Medianformue: 751.829 kroner"
+    ],
+    [
+      "8620",
+      "1111544",
+      "",
+      "",
+      "8620 Kjellerup",
+      "Gns. nettoformue: 1.111.544 kroner",
+      "Medianformue: 635.217 kroner"
+    ],
+    [
+      "8632",
+      "1394082",
+      "",
+      "",
+      "8632 Lemming",
+      "Gns. nettoformue: 1.394.082 kroner",
+      "Medianformue: 725.515 kroner"
+    ],
+    [
+      "8641",
+      "1312417",
+      "",
+      "",
+      "8641 Sorring",
+      "Gns. nettoformue: 1.312.417 kroner",
+      "Medianformue: 816.216 kroner"
+    ],
+    [
+      "8643",
+      "1214071",
+      "",
+      "",
+      "8643 Ans By",
+      "Gns. nettoformue: 1.214.071 kroner",
+      "Medianformue: 726.871 kroner"
+    ],
+    [
+      "8653",
+      "1200767",
+      "",
+      "",
+      "8653 Them",
+      "Gns. nettoformue: 1.200.767 kroner",
+      "Medianformue: 724.800 kroner"
+    ],
+    [
+      "8654",
+      "1273956",
+      "",
+      "",
+      "8654 Bryrup",
+      "Gns. nettoformue: 1.273.956 kroner",
+      "Medianformue: 780.352 kroner"
+    ],
+    [
+      "8660",
+      "1622422",
+      "",
+      "",
+      "8660 Skanderborg",
+      "Gns. nettoformue: 1.622.422 kroner",
+      "Medianformue: 921.185 kroner"
+    ],
+    [
+      "8670",
+      "1262359",
+      "",
+      "",
+      "8670 Låsby",
+      "Gns. nettoformue: 1.262.359 kroner",
+      "Medianformue: 738.298 kroner"
+    ],
+    [
+      "8680",
+      "1849995",
+      "",
+      "",
+      "8680 Ry",
+      "Gns. nettoformue: 1.849.995 kroner",
+      "Medianformue: 1.161.914 kroner"
+    ],
+    [
+      "8700",
+      "1056696",
+      "",
+      "",
+      "8700 Horsens",
+      "Gns. nettoformue: 1.056.696 kroner",
+      "Medianformue: 504.888 kroner"
+    ],
+    [
+      "8721",
+      "1540524",
+      "",
+      "",
+      "8721 Daugård",
+      "Gns. nettoformue: 1.540.524 kroner",
+      "Medianformue: 871.351 kroner"
+    ],
+    [
+      "8722",
+      "1303120",
+      "",
+      "",
+      "8722 Hedensted",
+      "Gns. nettoformue: 1.303.120 kroner",
+      "Medianformue: 829.105 kroner"
+    ],
+    [
+      "8723",
+      "1024907",
+      "",
+      "",
+      "8723 Løsning",
+      "Gns. nettoformue: 1.024.907 kroner",
+      "Medianformue: 582.034 kroner"
+    ],
+    [
+      "8732",
+      "1297820",
+      "",
+      "",
+      "8732 Hovedgård",
+      "Gns. nettoformue: 1.297.820 kroner",
+      "Medianformue: 729.441 kroner"
+    ],
+    [
+      "8740",
+      "1174370",
+      "",
+      "",
+      "8740 Brædstrup",
+      "Gns. nettoformue: 1.174.370 kroner",
+      "Medianformue: 675.646 kroner"
+    ],
+    [
+      "8751",
+      "1192699",
+      "",
+      "",
+      "8751 Gedved",
+      "Gns. nettoformue: 1.192.699 kroner",
+      "Medianformue: 745.569 kroner"
+    ],
+    [
+      "8752",
+      "1220164",
+      "",
+      "",
+      "8752 Østbirk",
+      "Gns. nettoformue: 1.220.164 kroner",
+      "Medianformue: 710.471 kroner"
+    ],
+    [
+      "8762",
+      "1217891",
+      "",
+      "",
+      "8762 Flemming",
+      "Gns. nettoformue: 1.217.891 kroner",
+      "Medianformue: 541.532 kroner"
+    ],
+    [
+      "8763",
+      "1284576",
+      "",
+      "",
+      "8763 Rask Mølle",
+      "Gns. nettoformue: 1.284.576 kroner",
+      "Medianformue: 799.604 kroner"
+    ],
+    [
+      "8765",
+      "948665",
+      "",
+      "",
+      "8765 Klovborg",
+      "Gns. nettoformue: 948.665 kroner",
+      "Medianformue: 506.574 kroner"
+    ],
+    [
+      "8766",
+      "1182735",
+      "",
+      "",
+      "8766 Nørre Snede",
+      "Gns. nettoformue: 1.182.735 kroner",
+      "Medianformue: 658.388 kroner"
+    ],
+    [
+      "8781",
+      "1569714",
+      "",
+      "",
+      "8781 Stenderup",
+      "Gns. nettoformue: 1.569.714 kroner",
+      "Medianformue: 758.956 kroner"
+    ],
+    [
+      "8783",
+      "1212044",
+      "",
+      "",
+      "8783 Hornsyld",
+      "Gns. nettoformue: 1.212.044 kroner",
+      "Medianformue: 686.243 kroner"
+    ],
+    [
+      "8800",
+      "1233625",
+      "",
+      "",
+      "8800 Viborg",
+      "Gns. nettoformue: 1.233.625 kroner",
+      "Medianformue: 613.105 kroner"
+    ],
+    [
+      "8830",
+      "1307828",
+      "",
+      "",
+      "8830 Tjele",
+      "Gns. nettoformue: 1.307.828 kroner",
+      "Medianformue: 701.679 kroner"
+    ],
+    [
+      "8831",
+      "1255168",
+      "",
+      "",
+      "8831 Løgstrup",
+      "Gns. nettoformue: 1.255.168 kroner",
+      "Medianformue: 765.664 kroner"
+    ],
+    [
+      "8832",
+      "1161861",
+      "",
+      "",
+      "8832 Skals",
+      "Gns. nettoformue: 1.161.861 kroner",
+      "Medianformue: 656.574 kroner"
+    ],
+    [
+      "8840",
+      "1114716",
+      "",
+      "",
+      "8840 Rødkærsbro",
+      "Gns. nettoformue: 1.114.716 kroner",
+      "Medianformue: 618.458 kroner"
+    ],
+    [
+      "8850",
+      "1164659",
+      "",
+      "",
+      "8850 Bjerringbro",
+      "Gns. nettoformue: 1.164.659 kroner",
+      "Medianformue: 690.107 kroner"
+    ],
+    [
+      "8860",
+      "1125825",
+      "",
+      "",
+      "8860 Ulstrup",
+      "Gns. nettoformue: 1.125.825 kroner",
+      "Medianformue: 649.822 kroner"
+    ],
+    [
+      "8870",
+      "1173420",
+      "",
+      "",
+      "8870 Langå",
+      "Gns. nettoformue: 1.173.420 kroner",
+      "Medianformue: 659.309 kroner"
+    ],
+    [
+      "8881",
+      "1081103",
+      "",
+      "",
+      "8881 Thorsø",
+      "Gns. nettoformue: 1.081.103 kroner",
+      "Medianformue: 655.487 kroner"
+    ],
+    [
+      "8882",
+      "1121270",
+      "",
+      "",
+      "8882 Fårvang",
+      "Gns. nettoformue: 1.121.270 kroner",
+      "Medianformue: 529.922 kroner"
+    ],
+    [
+      "8883",
+      "1414042",
+      "",
+      "",
+      "8883 Gjern",
+      "Gns. nettoformue: 1.414.042 kroner",
+      "Medianformue: 812.941 kroner"
+    ],
+    [
+      "8900",
+      "529123",
+      "",
+      "",
+      "8900 Randers C",
+      "Gns. nettoformue: 529.123 kroner",
+      "Medianformue: 138.656 kroner"
+    ],
+    [
+      "8920",
+      "1149358",
+      "",
+      "",
+      "8920 Randers NV",
+      "Gns. nettoformue: 1.149.358 kroner",
+      "Medianformue: 622.849 kroner"
+    ],
+    [
+      "8930",
+      "834352",
+      "",
+      "",
+      "8930 Randers NØ",
+      "Gns. nettoformue: 834.352 kroner",
+      "Medianformue: 364.302 kroner"
+    ],
+    [
+      "8940",
+      "1055371",
+      "",
+      "",
+      "8940 Randers SV",
+      "Gns. nettoformue: 1.055.371 kroner",
+      "Medianformue: 647.603 kroner"
+    ],
+    [
+      "8950",
+      "1216761",
+      "",
+      "",
+      "8950 Ørsted",
+      "Gns. nettoformue: 1.216.761 kroner",
+      "Medianformue: 507.665 kroner"
+    ],
+    [
+      "8960",
+      "1151862",
+      "",
+      "",
+      "8960 Randers SØ",
+      "Gns. nettoformue: 1.151.862 kroner",
+      "Medianformue: 678.711 kroner"
+    ],
+    [
+      "8961",
+      "1052189",
+      "",
+      "",
+      "8961 Allingåbro",
+      "Gns. nettoformue: 1.052.189 kroner",
+      "Medianformue: 565.770 kroner"
+    ],
+    [
+      "8963",
+      "1068293",
+      "",
+      "",
+      "8963 Auning",
+      "Gns. nettoformue: 1.068.293 kroner",
+      "Medianformue: 624.648 kroner"
+    ],
+    [
+      "8970",
+      "828513",
+      "",
+      "",
+      "8970 Havndal",
+      "Gns. nettoformue: 828.513 kroner",
+      "Medianformue: 455.250 kroner"
+    ],
+    [
+      "8981",
+      "1119256",
+      "",
+      "",
+      "8981 Spentrup",
+      "Gns. nettoformue: 1.119.256 kroner",
+      "Medianformue: 697.089 kroner"
+    ],
+    [
+      "8983",
+      "970800",
+      "",
+      "",
+      "8983 Gjerlev J",
+      "Gns. nettoformue: 970.800 kroner",
+      "Medianformue: 526.804 kroner"
+    ],
+    [
+      "8990",
+      "1079183",
+      "",
+      "",
+      "8990 Fårup",
+      "Gns. nettoformue: 1.079.183 kroner",
+      "Medianformue: 656.660 kroner"
+    ],
+    [
+      "9000",
+      "921269",
+      "",
+      "",
+      "9000 Aalborg",
+      "Gns. nettoformue: 921.269 kroner",
+      "Medianformue: 184.101 kroner"
+    ],
+    [
+      "9200",
+      "1509528",
+      "",
+      "",
+      "9200 Aalborg SV",
+      "Gns. nettoformue: 1.509.528 kroner",
+      "Medianformue: 925.189 kroner"
+    ],
+    [
+      "9210",
+      "1265288",
+      "",
+      "",
+      "9210 Aalborg SØ",
+      "Gns. nettoformue: 1.265.288 kroner",
+      "Medianformue: 683.050 kroner"
+    ],
+    [
+      "9220",
+      "597474",
+      "",
+      "",
+      "9220 Aalborg Øst",
+      "Gns. nettoformue: 597.474 kroner",
+      "Medianformue: 177.790 kroner"
+    ],
+    [
+      "9230",
+      "1318102",
+      "",
+      "",
+      "9230 Svenstrup J",
+      "Gns. nettoformue: 1.318.102 kroner",
+      "Medianformue: 849.845 kroner"
+    ],
+    [
+      "9240",
+      "1244478",
+      "",
+      "",
+      "9240 Nibe",
+      "Gns. nettoformue: 1.244.478 kroner",
+      "Medianformue: 762.885 kroner"
+    ],
+    [
+      "9260",
+      "1840240",
+      "",
+      "",
+      "9260 Gistrup",
+      "Gns. nettoformue: 1.840.240 kroner",
+      "Medianformue: 1.163.300 kroner"
+    ],
+    [
+      "9270",
+      "1559267",
+      "",
+      "",
+      "9270 Klarup",
+      "Gns. nettoformue: 1.559.267 kroner",
+      "Medianformue: 1.050.080 kroner"
+    ],
+    [
+      "9280",
+      "1077862",
+      "",
+      "",
+      "9280 Storvorde",
+      "Gns. nettoformue: 1.077.862 kroner",
+      "Medianformue: 710.544 kroner"
+    ],
+    [
+      "9293",
+      "957880",
+      "",
+      "",
+      "9293 Kongerslev",
+      "Gns. nettoformue: 957.880 kroner",
+      "Medianformue: 488.846 kroner"
+    ],
+    [
+      "9300",
+      "1175544",
+      "",
+      "",
+      "9300 Sæby",
+      "Gns. nettoformue: 1.175.544 kroner",
+      "Medianformue: 740.664 kroner"
+    ],
+    [
+      "9310",
+      "1358372",
+      "",
+      "",
+      "9310 Vodskov",
+      "Gns. nettoformue: 1.358.372 kroner",
+      "Medianformue: 834.935 kroner"
+    ],
+    [
+      "9320",
+      "1185086",
+      "",
+      "",
+      "9320 Hjallerup",
+      "Gns. nettoformue: 1.185.086 kroner",
+      "Medianformue: 709.616kroner"
+    ],
+    [
+      "9330",
+      "1013999",
+      "",
+      "",
+      "9330 Dronninglund",
+      "Gns. nettoformue: 1.013.999 kroner",
+      "Medianformue: 588.160 kroner"
+    ],
+    [
+      "9340",
+      "884151",
+      "",
+      "",
+      "9340 Asaa",
+      "Gns. nettoformue: 884.151 kroner",
+      "Medianformue: 578.070 kroner"
+    ],
+    [
+      "9352",
+      "881052",
+      "",
+      "",
+      "9352 Dybvad",
+      "Gns. nettoformue: 881.052 kroner",
+      "Medianformue: 499.473 kroner"
+    ],
+    [
+      "9362",
+      "1008648",
+      "",
+      "",
+      "9362 Gandrup",
+      "Gns. nettoformue: 1.008.648 kroner",
+      "Medianformue: 564.491 kroner"
+    ],
+    [
+      "9370",
+      "1148862",
+      "",
+      "",
+      "9370 Hals",
+      "Gns. nettoformue: 1.148.862 kroner",
+      "Medianformue: 609.536 kroner"
+    ],
+    [
+      "9380",
+      "1461695",
+      "",
+      "",
+      "9380 Vestbjerg",
+      "Gns. nettoformue: 1.461.695 kroner",
+      "Medianformue: 894.448 kroner"
+    ],
+    [
+      "9381",
+      "1100791",
+      "",
+      "",
+      "9381 Sulsted",
+      "Gns. nettoformue: 1.100.791 kroner",
+      "Medianformue: 629.333 kroner"
+    ],
+    [
+      "9382",
+      "791242",
+      "",
+      "",
+      "9382 Tylstrup",
+      "Gns. nettoformue: 791.242 kroner",
+      "Medianformue: 446.539 kroner"
+    ],
+    [
+      "9400",
+      "854124",
+      "",
+      "",
+      "9400 Nørresundby",
+      "Gns. nettoformue: 854.124 kroner",
+      "Medianformue: 293.526 kroner"
+    ],
+    [
+      "9430",
+      "1244102",
+      "",
+      "",
+      "9430 Vadum",
+      "Gns. nettoformue: 1.244.102 kroner",
+      "Medianformue: 818.363 kroner"
+    ],
+    [
+      "9440",
+      "1290820",
+      "",
+      "",
+      "9440 Aabybro",
+      "Gns. nettoformue: 1.290.820 kroner",
+      "Medianformue: 766.313 kroner"
+    ],
+    [
+      "9460",
+      "916624",
+      "",
+      "",
+      "9460 Brovst",
+      "Gns. nettoformue: 916.624 kroner",
+      "Medianformue: 499.243 kroner"
+    ],
+    [
+      "9480",
+      "1131868",
+      "",
+      "",
+      "9480 Løkken",
+      "Gns. nettoformue: 1.131.868 kroner",
+      "Medianformue: 679.115 kroner"
+    ],
+    [
+      "9490",
+      "932355",
+      "",
+      "",
+      "9490 Pandrup",
+      "Gns. nettoformue: 932.355 kroner",
+      "Medianformue: 533.645 kroner"
+    ],
+    [
+      "9492",
+      "1571378",
+      "",
+      "",
+      "9492 Blokhus",
+      "Gns. nettoformue: 1.571.378 kroner",
+      "Medianformue: 1.099.686 kroner"
+    ],
+    [
+      "9493",
+      "1262514",
+      "",
+      "",
+      "9493 Saltum",
+      "Gns. nettoformue: 1.262.514 kroner",
+      "Medianformue: 626.195 kroner"
+    ],
+    [
+      "9500",
+      "1080565",
+      "",
+      "",
+      "9500 Hobro",
+      "Gns. nettoformue: 1.080.565 kroner",
+      "Medianformue: 572.867 kroner"
+    ],
+    [
+      "9510",
+      "1057351",
+      "",
+      "",
+      "9510 Arden",
+      "Gns. nettoformue: 1.057.351 kroner",
+      "Medianformue: 582.744 kroner"
+    ],
+    [
+      "9520",
+      "1540829",
+      "",
+      "",
+      "9520 Skørping",
+      "Gns. nettoformue: 1.540.829 kroner",
+      "Medianformue: 939.587 kroner"
+    ],
+    [
+      "9530",
+      "1407533",
+      "",
+      "",
+      "9530 Støvring",
+      "Gns. nettoformue: 1.407.533 kroner",
+      "Medianformue: 923.783 kroner"
+    ],
+    [
+      "9541",
+      "1158888",
+      "",
+      "",
+      "9541 Suldrup",
+      "Gns. nettoformue: 1.158.888 kroner",
+      "Medianformue: 596.793 kroner"
+    ],
+    [
+      "9550",
+      "1146310",
+      "",
+      "",
+      "9550 Mariager",
+      "Gns. nettoformue: 1.146.310 kroner",
+      "Medianformue: 612.160 kroner"
+    ],
+    [
+      "9560",
+      "1113065",
+      "",
+      "",
+      "9560 Hadsund",
+      "Gns. nettoformue: 1.113.065 kroner",
+      "Medianformue: 641.104 kroner"
+    ],
+    [
+      "9574",
+      "1132992",
+      "",
+      "",
+      "9574 Bælum",
+      "Gns. nettoformue: 1.132.992 kroner",
+      "Medianformue: 660.451 kroner"
+    ],
+    [
+      "9575",
+      "1181635",
+      "",
+      "",
+      "9575 Terndrup",
+      "Gns. nettoformue: 1.181.635 kroner",
+      "Medianformue: 707.396 kroner"
+    ],
+    [
+      "9600",
+      "1060216",
+      "",
+      "",
+      "9600 Aars",
+      "Gns. nettoformue: 1.060.216 kroner",
+      "Medianformue: 619.024 kroner"
+    ],
+    [
+      "9610",
+      "1088467",
+      "",
+      "",
+      "9610 Nørager",
+      "Gns. nettoformue: 1.088.467 kroner",
+      "Medianformue: 561.784 kroner"
+    ],
+    [
+      "9620",
+      "1012112",
+      "",
+      "",
+      "9620 Aalestrup",
+      "Gns. nettoformue: 1.012.112 kroner",
+      "Medianformue: 564.994 kroner"
+    ],
+    [
+      "9631",
+      "919219",
+      "",
+      "",
+      "9631 Gedsted",
+      "Gns. nettoformue: 919.219 kroner",
+      "Medianformue: 609.021 kroner"
+    ],
+    [
+      "9632",
+      "1168171",
+      "",
+      "",
+      "9632 Møldrup",
+      "Gns. nettoformue: 1.168.171 kroner",
+      "Medianformue: 626.179 kroner"
+    ],
+    [
+      "9640",
+      "1033302",
+      "",
+      "",
+      "9640 Farsø",
+      "Gns. nettoformue: 1.033.302 kroner",
+      "Medianformue: 577.387 kroner"
+    ],
+    [
+      "9670",
+      "1034363",
+      "",
+      "",
+      "9670 Løgstør",
+      "Gns. nettoformue: 1.034.363 kroner",
+      "Medianformue: 583.820 kroner"
+    ],
+    [
+      "9681",
+      "950831",
+      "",
+      "",
+      "9681 Ranum",
+      "Gns. nettoformue: 950.831 kroner",
+      "Medianformue: 507.113 kroner"
+    ],
+    [
+      "9690",
+      "1022165",
+      "",
+      "",
+      "9690 Fjerritslev",
+      "Gns. nettoformue: 1.022.165 kroner",
+      "Medianformue: 573.741 kroner"
+    ],
+    [
+      "9700",
+      "976938",
+      "",
+      "",
+      "9700 Brønderslev",
+      "Gns. nettoformue: 976.938 kroner",
+      "Medianformue: 555.739 kroner"
+    ],
+    [
+      "9740",
+      "1003961",
+      "",
+      "",
+      "9740 Jerslev J",
+      "Gns. nettoformue: 1.003.961 kroner",
+      "Medianformue: 543.151 kroner"
+    ],
+    [
+      "9750",
+      "806645",
+      "",
+      "",
+      "9750 Østervrå",
+      "Gns. nettoformue: 806.645 kroner",
+      "Medianformue: 478.908 kroner"
+    ],
+    [
+      "9760",
+      "882533",
+      "",
+      "",
+      "9760 Vrå",
+      "Gns. nettoformue: 882.533 kroner",
+      "Medianformue: 488.630 kroner"
+    ],
+    [
+      "9800",
+      "1248875",
+      "",
+      "",
+      "9800 Hjørring",
+      "Gns. nettoformue: 1.248.875 kroner",
+      "Medianformue: 600.213 kroner"
+    ],
+    [
+      "9830",
+      "1054854",
+      "",
+      "",
+      "9830 Tårs",
+      "Gns. nettoformue: 1.054.854 kroner",
+      "Medianformue: 567.916 kroner"
+    ],
+    [
+      "9850",
+      "855256",
+      "",
+      "",
+      "9850 Hirtshals",
+      "Gns. nettoformue: 855.256 kroner",
+      "Medianformue: 483.337 kroner"
+    ],
+    [
+      "9870",
+      "1026224",
+      "",
+      "",
+      "9870 Sindal",
+      "Gns. nettoformue: 1.026.224 kroner",
+      "Medianformue: 527.019 kroner"
+    ],
+    [
+      "9881",
+      "1084262",
+      "",
+      "",
+      "9881 Bindslev",
+      "Gns. nettoformue: 1.084.262 kroner",
+      "Medianformue: 642.312 kroner"
+    ],
+    [
+      "9900",
+      "923118",
+      "",
+      "",
+      "9900 Frederikshavn",
+      "Gns. nettoformue: 923.118 kroner",
+      "Medianformue: 466.136 kroner"
+    ],
+    [
+      "9940",
+      "1110642",
+      "",
+      "",
+      "9940 Læsø",
+      "Gns. nettoformue: 1.110.642 kroner",
+      "Medianformue: 726.942 kroner"
+    ],
+    [
+      "9970",
+      "1136116",
+      "",
+      "",
+      "9970 Strandby",
+      "Gns. nettoformue: 1.136.116 kroner",
+      "Medianformue: 767.550 kroner"
+    ],
+    [
+      "9981",
+      "1134453",
+      "",
+      "",
+      "9981 Jerup",
+      "Gns. nettoformue: 1.134.453 kroner",
+      "Medianformue: 708.828 kroner"
+    ],
+    [
+      "9982",
+      "1094406",
+      "",
+      "",
+      "9982 Ålbæk",
+      "Gns. nettoformue: 1.094.406 kroner",
+      "Medianformue: 748.925 kroner"
+    ],
+    [
+      "9990",
+      "1278782",
+      "",
+      "",
+      "9990 Skagen",
+      "Gns. nettoformue: 1.278.782 kroner",
+      "Medianformue: 678.236 kroner"
+    ]
+  ]
+]
